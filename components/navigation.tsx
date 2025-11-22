@@ -11,16 +11,15 @@ export function Navigation() {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-md border-b border-border">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
-        <Link href="/" className="flex items-center gap-2 sm:gap-3 group flex-1 min-w-0">
-          <div className="w-10 sm:w-12 h-10 sm:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity flex-shrink-0">
+        <Link href="/" className="flex items-center gap-2 sm:gap-3 group flex-1 min-w-0 mr-2">
+          <div className="w-9 sm:w-10 md:w-12 h-9 sm:h-10 md:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity flex-shrink-0">
             <Image src="/shreyhit-logo.png" alt="Shreyhit Logo" width={48} height={48} className="object-contain" />
           </div>
-          <div className="block min-w-0">
-            <div className="text-xs sm:text-base md:text-lg font-bold text-foreground leading-tight">
-              <span className="hidden sm:inline">Shreyhit Manufacturer (OPC) Pvt. Ltd.</span>
-              <span className="sm:hidden">Shreyhit Manufacturer</span>
+          <div className="block min-w-0 flex-1">
+            <div className="text-[10px] leading-tight sm:text-sm md:text-base lg:text-lg font-bold text-foreground">
+              Shreyhit Manufacturer (OPC) Pvt. Ltd.
             </div>
-            <div className="text-xs text-muted-foreground hidden sm:block">ISO 9001:2015 Certified</div>
+            <div className="text-[8px] sm:text-xs text-muted-foreground leading-tight">ISO 9001:2015 Certified</div>
           </div>
         </Link>
 
