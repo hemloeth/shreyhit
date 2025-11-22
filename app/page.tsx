@@ -35,7 +35,7 @@ export default function Home() {
                 <div className="grid grid-cols-2 gap-4 mb-8">
                   {[
                     { label: "ISO 9001", value: "Certified" },
-                    { label: "Products", value: "6+" },
+                    { label: "Products", value: "7+" },
                     { label: "Quality", value: "Premium" },
                     { label: "Trusted", value: "Since 2025" },
                   ].map((feature, i) => (
@@ -190,7 +190,7 @@ export default function Home() {
                 },
                 {
                   label: "Premium Products",
-                  value: "6+",
+                  value: "7+",
                   desc: "Diverse range of consumer essentials",
                 },
                 {

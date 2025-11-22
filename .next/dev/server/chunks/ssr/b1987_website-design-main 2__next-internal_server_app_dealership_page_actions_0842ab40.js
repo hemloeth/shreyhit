@@ -1,0 +1,7 @@
+module.exports = [
+"[project]/Downloads/v0-shreyhit-website-design-main 2/.next-internal/server/app/dealership/page/actions.js [app-rsc] (server actions loader, ecmascript)", ((__turbopack_context__, module, exports) => {
+
+}),
+];
+
+//# sourceMappingURL=b1987_website-design-main%202__next-internal_server_app_dealership_page_actions_0842ab40.js.map
