@@ -53,19 +53,19 @@ export default function ProductsPage() {
   return (
     <>
       <Navigation />
-      <main className="min-h-screen pt-24 pb-16 px-6 bg-gradient-to-b from-background to-card">
+      <main className="min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16 px-4 sm:px-6 bg-gradient-to-b from-background to-card">
         <div className="max-w-6xl mx-auto">
           {/* Header */}
-          <div className="mb-16 animate-fadeInUp">
-            <h1 className="text-5xl font-bold text-primary mb-4">Our Products</h1>
-            <p className="text-muted-foreground text-lg max-w-2xl">
+          <div className="mb-12 sm:mb-16 animate-fadeInUp px-4">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-primary mb-3 sm:mb-4">Our Products</h1>
+            <p className="text-muted-foreground text-sm sm:text-base md:text-lg max-w-2xl">
               Discover our complete range of premium, ISO 9001 certified products manufactured with excellence and care.
               Each product is crafted to meet the highest quality standards.
             </p>
           </div>
 
           {/* Products Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-20">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 md:gap-8 mb-12 sm:mb-20">
             {products.map((product, i) => (
               <div
                 key={i}

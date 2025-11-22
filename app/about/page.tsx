@@ -23,12 +23,12 @@ export default function AboutPage() {
   return (
     <>
       <Navigation />
-      <main className="min-h-screen pt-24 pb-16 px-6 bg-gradient-to-b from-background to-card">
+      <main className="min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16 px-4 sm:px-6 bg-gradient-to-b from-background to-card">
         <div className="max-w-6xl mx-auto">
           <div className="mb-16 animate-fadeInUp">
-            <div className="bg-gradient-to-r from-primary/20 to-accent/20 border border-primary/30 rounded-lg p-8 mb-16">
-              <h1 className="text-5xl font-bold text-primary mb-4">About Shreyhit Manufacturer</h1>
-              <p className="text-xl text-muted-foreground max-w-3xl">
+            <div className="bg-gradient-to-r from-primary/20 to-accent/20 border border-primary/30 rounded-lg p-6 sm:p-8 mb-12 sm:mb-16">
+              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-primary mb-3 sm:mb-4">About Shreyhit Manufacturer</h1>
+              <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-3xl">
                 Shreyhit Manufacturer (OPC) Private Limited - Your Trusted Partner in Premium Quality Consumer Products
               </p>
             </div>

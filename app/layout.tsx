@@ -13,6 +13,11 @@ export const metadata: Metadata = {
   description:
     "ISO 9001 Certified Manufacturer of Premium Products: Tea, Toothbrush, Dry Fruits, Detergent Powder, Scrubber, and Sanitary Pads",
   generator: "v0.app",
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+    maximumScale: 5,
+  },
   icons: {
     icon: [
       {

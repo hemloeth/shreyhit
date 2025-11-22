@@ -22,38 +22,38 @@ export default function ContactPage() {
   return (
     <>
       <Navigation />
-      <main className="min-h-screen pt-24 pb-16 px-6 bg-gradient-to-b from-background to-card">
+      <main className="min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16 px-4 sm:px-6 bg-gradient-to-b from-background to-card">
         <div className="max-w-6xl mx-auto">
           {/* Header */}
-          <div className="mb-16 animate-fadeInUp text-center">
-            <h1 className="text-5xl font-bold text-primary mb-4">Contact Us</h1>
-            <p className="text-muted-foreground text-lg">
+          <div className="mb-12 sm:mb-16 animate-fadeInUp text-center px-4">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-primary mb-3 sm:mb-4">Contact Us</h1>
+            <p className="text-muted-foreground text-sm sm:text-base md:text-lg">
               Get in touch with us for any inquiries or support
             </p>
           </div>
 
           {/* Contact Info Cards */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
-            <div className="bg-card border border-border rounded-lg p-8 animate-fadeInUp">
-              <div className="text-3xl font-bold text-primary mb-4">📞</div>
-              <h3 className="text-xl font-bold text-foreground mb-2">Phone</h3>
-              <p className="text-muted-foreground">+91 63913 91576</p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8 mb-12 sm:mb-16">
+            <div className="bg-card border border-border rounded-lg p-6 sm:p-8 animate-fadeInUp">
+              <div className="text-2xl sm:text-3xl font-bold text-primary mb-3 sm:mb-4">📞</div>
+              <h3 className="text-lg sm:text-xl font-bold text-foreground mb-2">Phone</h3>
+              <a href="tel:+916391391576" className="text-muted-foreground hover:text-primary transition-colors">+91 63913 91576</a>
             </div>
             <div
-              className="bg-card border border-border rounded-lg p-8 animate-fadeInUp"
+              className="bg-card border border-border rounded-lg p-6 sm:p-8 animate-fadeInUp"
               style={{ animationDelay: "0.1s" }}
             >
-              <div className="text-3xl font-bold text-primary mb-4">📍</div>
-              <h3 className="text-xl font-bold text-foreground mb-2">Address</h3>
-              <p className="text-muted-foreground text-sm">Goverdhanpur Bazar, Utraula, Balrampur 271604, UP, India</p>
+              <div className="text-2xl sm:text-3xl font-bold text-primary mb-3 sm:mb-4">📍</div>
+              <h3 className="text-lg sm:text-xl font-bold text-foreground mb-2">Address</h3>
+              <p className="text-muted-foreground text-xs sm:text-sm">Goverdhanpur Bazar, Utraula, Balrampur 271604, UP, India</p>
             </div>
             <div
-              className="bg-card border border-border rounded-lg p-8 animate-fadeInUp"
+              className="bg-card border border-border rounded-lg p-6 sm:p-8 animate-fadeInUp sm:col-span-2 md:col-span-1"
               style={{ animationDelay: "0.2s" }}
             >
-              <div className="text-3xl font-bold text-primary mb-4">✉️</div>
-              <h3 className="text-xl font-bold text-foreground mb-2">Email</h3>
-              <p className="text-muted-foreground">contact@shreyhit.com</p>
+              <div className="text-2xl sm:text-3xl font-bold text-primary mb-3 sm:mb-4">✉️</div>
+              <h3 className="text-lg sm:text-xl font-bold text-foreground mb-2">Email</h3>
+              <a href="mailto:contact@shreyhit.com" className="text-muted-foreground hover:text-primary transition-colors text-sm sm:text-base">contact@shreyhit.com</a>
             </div>
           </div>
 

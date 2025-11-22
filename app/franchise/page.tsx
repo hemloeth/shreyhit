@@ -23,12 +23,12 @@ export default function FranchisePage() {
   return (
     <>
       <Navigation />
-      <main className="min-h-screen pt-24 pb-16 px-6 bg-gradient-to-b from-background to-card">
+      <main className="min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16 px-4 sm:px-6 bg-gradient-to-b from-background to-card">
         <div className="max-w-6xl mx-auto">
           {/* Header */}
-          <div className="mb-16 animate-fadeInUp text-center">
-            <h1 className="text-5xl font-bold text-primary mb-4">Franchise Opportunities</h1>
-            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+          <div className="mb-12 sm:mb-16 animate-fadeInUp text-center px-4">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-primary mb-3 sm:mb-4">Franchise Opportunities</h1>
+            <p className="text-muted-foreground text-sm sm:text-base md:text-lg max-w-3xl mx-auto">
               Own and operate a Shreyhit branded outlet with complete business setup support. Build your entrepreneurial dream with our proven business model.
             </p>
           </div>
