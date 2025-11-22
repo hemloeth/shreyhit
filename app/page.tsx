@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Navigation />
-      <main className="pt-20">
+      <main className="pt-10">
         {/* Hero Section with Company Banner */}
         <section className="min-h-screen flex items-center justify-center bg-gradient-to-b from-background via-card to-background px-4 sm:px-6 relative overflow-hidden py-16 sm:py-12">
           {/* Decorative elements */}

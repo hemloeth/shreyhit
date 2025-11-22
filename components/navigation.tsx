@@ -25,7 +25,7 @@ export function Navigation() {
           <div className="w-10 sm:w-12 h-10 sm:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity">
             <Image src="/shreyhit-logo.png" alt="Shreyhit Logo" width={48} height={48} className="object-contain" />
           </div>
-          <div className="hidden sm:block">
+          <div className="block">
             <div className="text-base sm:text-lg font-bold text-foreground">Shreyhit</div>
             <div className="text-xs text-muted-foreground">Manufacturer</div>
           </div>
