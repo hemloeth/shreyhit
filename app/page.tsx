@@ -196,7 +196,7 @@ export default function Home() {
                 {
                   label: "Expert Leadership",
                   value: "Prince Srivastava",
-                  desc: "Founder & Owner - 10+ years experience",
+                  desc: "Founder & Owner - 5+ years experience",
                 },
               ].map((stat, i) => (
                 <div
