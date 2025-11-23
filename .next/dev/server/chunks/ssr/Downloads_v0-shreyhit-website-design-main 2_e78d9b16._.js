@@ -113,10 +113,10 @@ function Navigation() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                         href: "/",
-                        className: "flex items-center gap-2 sm:gap-3 group flex-1 min-w-0",
+                        className: "flex items-center gap-2 sm:gap-3 group flex-1 min-w-0 mr-2",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "w-10 sm:w-12 h-10 sm:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity flex-shrink-0",
+                                className: "w-9 sm:w-10 md:w-12 h-9 sm:h-10 md:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity flex-shrink-0",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                     src: "/shreyhit-logo.png",
                                     alt: "Shreyhit Logo",
@@ -134,39 +134,22 @@ function Navigation() {
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "block min-w-0",
+                                className: "block min-w-0 flex-1",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "text-xs sm:text-base md:text-lg font-bold text-foreground leading-tight",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "hidden sm:inline",
-                                                children: "Shreyhit Manufacturer (OPC) Pvt. Ltd."
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                                lineNumber: 20,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "sm:hidden",
-                                                children: "Shreyhit Manufacturer"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                                lineNumber: 21,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                        className: "text-[10px] leading-tight sm:text-sm md:text-base lg:text-lg font-bold text-foreground",
+                                        children: "Shreyhit Manufacturer (OPC) Pvt. Ltd."
+                                    }, void 0, false, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
                                         lineNumber: 19,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "text-xs text-muted-foreground hidden sm:block",
+                                        className: "text-[8px] sm:text-xs text-muted-foreground leading-tight",
                                         children: "ISO 9001:2015 Certified"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                        lineNumber: 23,
+                                        lineNumber: 22,
                                         columnNumber: 13
                                     }, this)
                                 ]
@@ -185,7 +168,7 @@ function Navigation() {
                         variant: "desktop"
                     }, void 0, false, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 28,
+                        lineNumber: 27,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -197,27 +180,27 @@ function Navigation() {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "rotate-45 translate-y-2" : ""}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 36,
+                                lineNumber: 35,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "opacity-0" : "opacity-100"}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 39,
+                                lineNumber: 38,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "-rotate-45 -translate-y-2" : ""}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 42,
+                                lineNumber: 41,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 31,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, this)
                 ]
@@ -235,17 +218,17 @@ function Navigation() {
                         onItemClick: ()=>setIsOpen(false)
                     }, void 0, false, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 54,
+                        lineNumber: 53,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                    lineNumber: 53,
+                    lineNumber: 52,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                lineNumber: 52,
+                lineNumber: 51,
                 columnNumber: 9
             }, this)
         ]
@@ -490,13 +473,6 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$
 ;
 ;
 function DealershipPage() {
-    const [franchiseForm, setFranchiseForm] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])({
-        name: "",
-        email: "",
-        phone: "",
-        state: "",
-        message: ""
-    });
     const [dealershipForm, setDealershipForm] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])({
         name: "",
         email: "",
@@ -504,25 +480,10 @@ function DealershipPage() {
         location: "",
         message: ""
     });
-    const [franchiseSubmitted, setFranchiseSubmitted] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
-    const [dealershipSubmitted, setDealershipSubmitted] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
-    const handleFranchiseSubmit = (e)=>{
+    const [submitted, setSubmitted] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
+    const handleSubmit = (e)=>{
         e.preventDefault();
-        setFranchiseSubmitted(true);
-        setTimeout(()=>{
-            setFranchiseForm({
-                name: "",
-                email: "",
-                phone: "",
-                state: "",
-                message: ""
-            });
-            setFranchiseSubmitted(false);
-        }, 3000);
-    };
-    const handleDealershipSubmit = (e)=>{
-        e.preventDefault();
-        setDealershipSubmitted(true);
+        setSubmitted(true);
         setTimeout(()=>{
             setDealershipForm({
                 name: "",
@@ -531,44 +492,44 @@ function DealershipPage() {
                 location: "",
                 message: ""
             });
-            setDealershipSubmitted(false);
+            setSubmitted(false);
         }, 3000);
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$components$2f$navigation$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Navigation"], {}, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                lineNumber: 36,
+                lineNumber: 25,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-                className: "min-h-screen pt-24 pb-16 px-6 bg-gradient-to-b from-background to-card",
+                className: "min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16 px-4 sm:px-6 bg-gradient-to-b from-background to-card",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "max-w-6xl mx-auto",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "mb-16 animate-fadeInUp text-center",
+                            className: "mb-12 sm:mb-16 animate-fadeInUp text-center px-4",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                    className: "text-5xl font-bold text-primary mb-4",
-                                    children: "Franchise & Dealership Opportunities"
+                                    className: "text-3xl sm:text-4xl md:text-5xl font-bold text-primary mb-3 sm:mb-4",
+                                    children: "Dealership Opportunities"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 41,
+                                    lineNumber: 30,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-muted-foreground text-lg max-w-3xl mx-auto",
-                                    children: "Join the Shreyhit family and be part of India's growing consumer goods brand. Build your business with our proven products and support system."
+                                    className: "text-muted-foreground text-sm sm:text-base md:text-lg max-w-3xl mx-auto",
+                                    children: "Become an authorized Shreyhit dealer and distribute premium quality products in your region. Grow your business with our trusted brand."
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 42,
+                                    lineNumber: 31,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                            lineNumber: 40,
+                            lineNumber: 29,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -580,18 +541,18 @@ function DealershipPage() {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 className: "text-3xl font-bold text-foreground mb-4",
-                                                children: "Grow Your Business With Shreyhit"
+                                                children: "Distribute Shreyhit Products"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                lineNumber: 51,
+                                                lineNumber: 40,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-muted-foreground mb-6",
-                                                children: "Partner with a trusted ISO 9001:2015 certified manufacturer offering premium quality consumer products across multiple categories."
+                                                children: "Partner with an ISO 9001:2015 certified manufacturer and gain exclusive distribution rights for premium consumer products in your territory."
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                lineNumber: 52,
+                                                lineNumber: 41,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -602,24 +563,24 @@ function DealershipPage() {
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "text-2xl font-bold text-primary",
-                                                                children: "6+"
+                                                                children: "₹3-7L"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                lineNumber: 57,
+                                                                lineNumber: 46,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "text-xs text-muted-foreground",
-                                                                children: "Products"
+                                                                children: "Investment"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                lineNumber: 58,
+                                                                lineNumber: 47,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                        lineNumber: 56,
+                                                        lineNumber: 45,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -627,24 +588,24 @@ function DealershipPage() {
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "text-2xl font-bold text-primary",
-                                                                children: "ISO"
+                                                                children: "7+"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                lineNumber: 61,
+                                                                lineNumber: 50,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "text-xs text-muted-foreground",
-                                                                children: "Certified"
+                                                                children: "Products"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                lineNumber: 62,
+                                                                lineNumber: 51,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                        lineNumber: 60,
+                                                        lineNumber: 49,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -655,7 +616,7 @@ function DealershipPage() {
                                                                 children: "100%"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                lineNumber: 65,
+                                                                lineNumber: 54,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -663,53 +624,53 @@ function DealershipPage() {
                                                                 children: "Support"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                lineNumber: 66,
+                                                                lineNumber: 55,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                        lineNumber: 64,
+                                                        lineNumber: 53,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                lineNumber: 55,
+                                                lineNumber: 44,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                        lineNumber: 50,
+                                        lineNumber: 39,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "relative h-64 md:h-80",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                             src: "/company-banner.png",
-                                            alt: "Shreyhit Products",
+                                            alt: "Shreyhit Dealership",
                                             fill: true,
                                             className: "object-contain rounded-lg"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 71,
+                                            lineNumber: 60,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                        lineNumber: 70,
+                                        lineNumber: 59,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                lineNumber: 49,
+                                lineNumber: 38,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                            lineNumber: 48,
+                            lineNumber: 37,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -717,10 +678,10 @@ function DealershipPage() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-3xl font-bold text-primary mb-8 text-center",
-                                    children: "Why Partner With Shreyhit?"
+                                    children: "Why Become a Shreyhit Dealer?"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 83,
+                                    lineNumber: 72,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -731,32 +692,32 @@ function DealershipPage() {
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                     className: "text-4xl mb-4",
-                                                    children: "🏆"
+                                                    children: "🤝"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 86,
+                                                    lineNumber: 75,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                     className: "text-xl font-bold text-foreground mb-3",
-                                                    children: "Established Brand"
+                                                    children: "Exclusive Territory Rights"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 87,
+                                                    lineNumber: 76,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     className: "text-muted-foreground text-sm",
-                                                    children: "ISO 9001:2015 certified with a proven track record in manufacturing quality consumer products."
+                                                    children: "Get exclusive distribution rights in your designated area with no competition from other Shreyhit dealers."
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 88,
+                                                    lineNumber: 77,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 85,
+                                            lineNumber: 74,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -767,29 +728,29 @@ function DealershipPage() {
                                                     children: "📦"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 93,
+                                                    lineNumber: 82,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                     className: "text-xl font-bold text-foreground mb-3",
-                                                    children: "Diverse Product Range"
+                                                    children: "Premium Product Range"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 94,
+                                                    lineNumber: 83,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     className: "text-muted-foreground text-sm",
-                                                    children: "From premium tea to sanitary pads, detergents, and personal care - multiple revenue streams."
+                                                    children: "Distribute 7+ high-quality products across multiple categories with consistent demand and market appeal."
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 95,
+                                                    lineNumber: 84,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 92,
+                                            lineNumber: 81,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -800,7 +761,7 @@ function DealershipPage() {
                                                     children: "💰"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 100,
+                                                    lineNumber: 89,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -808,33 +769,132 @@ function DealershipPage() {
                                                     children: "Attractive Margins"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 101,
+                                                    lineNumber: 90,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     className: "text-muted-foreground text-sm",
-                                                    children: "Competitive pricing with excellent profit margins and flexible payment terms."
+                                                    children: "Enjoy competitive wholesale pricing with excellent profit margins and flexible payment terms."
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 102,
+                                                    lineNumber: 91,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 99,
+                                            lineNumber: 88,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "bg-card border border-border rounded-lg p-6",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "text-4xl mb-4",
+                                                    children: "🚚"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 96,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "text-xl font-bold text-foreground mb-3",
+                                                    children: "Reliable Supply Chain"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 97,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "text-muted-foreground text-sm",
+                                                    children: "Guaranteed regular product supply with efficient logistics and timely delivery to your location."
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 98,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                            lineNumber: 95,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "bg-card border border-border rounded-lg p-6",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "text-4xl mb-4",
+                                                    children: "📢"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 103,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "text-xl font-bold text-foreground mb-3",
+                                                    children: "Marketing Support"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 104,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "text-muted-foreground text-sm",
+                                                    children: "Receive promotional materials, marketing collateral, and brand support to boost your sales."
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 105,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                            lineNumber: 102,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "bg-card border border-border rounded-lg p-6",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "text-4xl mb-4",
+                                                    children: "🏆"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 110,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "text-xl font-bold text-foreground mb-3",
+                                                    children: "ISO Certified Brand"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 111,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "text-muted-foreground text-sm",
+                                                    children: "Partner with an ISO 9001:2015 certified manufacturer known for quality and reliability."
+                                                }, void 0, false, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 112,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                            lineNumber: 109,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 84,
+                                    lineNumber: 73,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                            lineNumber: 82,
+                            lineNumber: 71,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -842,300 +902,256 @@ function DealershipPage() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-3xl font-bold text-primary mb-8 text-center",
-                                    children: "Choose Your Partnership Model"
+                                    children: "What You Get as a Dealer"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 111,
+                                    lineNumber: 121,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "grid grid-cols-1 md:grid-cols-2 gap-8",
+                                    className: "grid grid-cols-1 md:grid-cols-2 gap-6",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "border border-primary/30 rounded-lg p-6 bg-primary/5",
+                                            className: "space-y-4",
                                             children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                    className: "text-2xl font-bold text-foreground mb-4",
-                                                    children: "🏪 Franchise"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 114,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-muted-foreground text-sm mb-6",
-                                                    children: "Own and operate a Shreyhit branded outlet with complete business setup support."
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 115,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                    className: "space-y-3 text-muted-foreground text-sm",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-start gap-3",
                                                     children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 120,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Exclusive brand rights in your territory"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 121,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold text-xl",
+                                                            children: "✓"
+                                                        }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 119,
+                                                            lineNumber: 125,
                                                             columnNumber: 19
                                                         }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                    className: "font-bold text-foreground mb-1",
+                                                                    children: "Exclusive Distribution Rights"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 124,
+                                                                    lineNumber: 127,
                                                                     columnNumber: 21
                                                                 }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Complete store setup assistance"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 125,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 123,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                    className: "text-muted-foreground text-sm",
+                                                                    children: "Sole distribution rights in your designated territory"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
                                                                     lineNumber: 128,
                                                                     columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Comprehensive training programs"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 129,
-                                                                    columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 127,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 132,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Marketing and promotional support"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 133,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 131,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 136,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Ongoing operational guidance"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 137,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 135,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 140,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Inventory management support"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 141,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 139,
+                                                            lineNumber: 126,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 118,
+                                                    lineNumber: 124,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold text-xl",
+                                                            children: "✓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 132,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                    className: "font-bold text-foreground mb-1",
+                                                                    children: "Wholesale Pricing"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 134,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                    className: "text-muted-foreground text-sm",
+                                                                    children: "Competitive dealer pricing with attractive profit margins"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 135,
+                                                                    columnNumber: 21
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 133,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 131,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold text-xl",
+                                                            children: "✓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 139,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                    className: "font-bold text-foreground mb-1",
+                                                                    children: "Complete Product Portfolio"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 141,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                    className: "text-muted-foreground text-sm",
+                                                                    children: "Access to all 7+ premium product lines"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 142,
+                                                                    columnNumber: 21
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 140,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 138,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold text-xl",
+                                                            children: "✓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 146,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                    className: "font-bold text-foreground mb-1",
+                                                                    children: "Flexible Order Quantities"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 148,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                    className: "text-muted-foreground text-sm",
+                                                                    children: "Order based on your market demand and storage capacity"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 149,
+                                                                    columnNumber: 21
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 147,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 145,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 113,
+                                            lineNumber: 123,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "border border-primary/30 rounded-lg p-6 bg-primary/5",
+                                            className: "space-y-4",
                                             children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                    className: "text-2xl font-bold text-foreground mb-4",
-                                                    children: "🤝 Dealership"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 146,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-muted-foreground text-sm mb-6",
-                                                    children: "Distribute Shreyhit products through your existing retail network or business."
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 147,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                    className: "space-y-3 text-muted-foreground text-sm",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-start gap-3",
                                                     children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 152,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Exclusive territorial distribution rights"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 153,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 151,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 156,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Attractive wholesale pricing"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 157,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold text-xl",
+                                                            children: "✓"
+                                                        }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
                                                             lineNumber: 155,
                                                             columnNumber: 19
                                                         }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                    className: "font-bold text-foreground mb-1",
+                                                                    children: "Marketing Materials"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 160,
+                                                                    lineNumber: 157,
                                                                     columnNumber: 21
                                                                 }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Flexible order quantities"
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                    className: "text-muted-foreground text-sm",
+                                                                    children: "Promotional materials, product catalogs, and display items"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 161,
+                                                                    lineNumber: 158,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 159,
+                                                            lineNumber: 156,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 154,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold text-xl",
+                                                            children: "✓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 162,
                                                             columnNumber: 19
                                                         }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                    className: "font-bold text-foreground mb-1",
+                                                                    children: "Dedicated Support Team"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
                                                                     lineNumber: 164,
                                                                     columnNumber: 21
                                                                 }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Regular product supply guarantee"
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                    className: "text-muted-foreground text-sm",
+                                                                    children: "Direct access to our dealer support team for assistance"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
                                                                     lineNumber: 165,
@@ -1146,708 +1162,601 @@ function DealershipPage() {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
                                                             lineNumber: 163,
                                                             columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 168,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Sales and marketing materials"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 169,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 161,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold text-xl",
+                                                            children: "✓"
+                                                        }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 167,
+                                                            lineNumber: 169,
                                                             columnNumber: 19
                                                         }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "✓"
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                    className: "font-bold text-foreground mb-1",
+                                                                    children: "Regular Product Updates"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 171,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                    className: "text-muted-foreground text-sm",
+                                                                    children: "Stay informed about new products and special offers"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
                                                                     lineNumber: 172,
                                                                     columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Dedicated support team"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 173,
-                                                                    columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 171,
+                                                            lineNumber: 170,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 150,
+                                                    lineNumber: 168,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold text-xl",
+                                                            children: "✓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 176,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
+                                                                    className: "font-bold text-foreground mb-1",
+                                                                    children: "Business Growth Support"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 178,
+                                                                    columnNumber: 21
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                    className: "text-muted-foreground text-sm",
+                                                                    children: "Guidance on market expansion and sales strategies"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                                    lineNumber: 179,
+                                                                    columnNumber: 21
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 177,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 175,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 145,
+                                            lineNumber: 153,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 112,
+                                    lineNumber: 122,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                            lineNumber: 110,
+                            lineNumber: 120,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "mb-16",
+                            className: "grid grid-cols-1 md:grid-cols-2 gap-8 mb-16",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "text-3xl font-bold text-primary mb-8 text-center",
-                                    children: "Apply Now"
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 182,
-                                    columnNumber: 13
-                                }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "grid grid-cols-1 lg:grid-cols-2 gap-8",
+                                    className: "bg-card border border-border rounded-lg p-8 animate-fadeInUp",
                                     children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                            className: "text-2xl font-bold text-primary mb-6",
+                                            children: "Investment Details"
+                                        }, void 0, false, {
+                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                            lineNumber: 189,
+                                            columnNumber: 15
+                                        }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "bg-card border border-border rounded-lg p-8 animate-fadeInUp",
+                                            className: "space-y-4",
                                             children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                    className: "text-2xl font-bold text-primary mb-6",
-                                                    children: "Franchise Application"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 186,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-muted-foreground mb-6 text-sm",
-                                                    children: "Fill out the form below to apply for a Shreyhit franchise. Our team will review your application and contact you within 48 hours."
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 187,
-                                                    columnNumber: 17
-                                                }, this),
-                                                franchiseSubmitted ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "bg-green-500/20 border border-green-500/50 rounded-lg p-6 text-center",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex justify-between items-center pb-3 border-b border-border",
                                                     children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-green-400 font-semibold",
-                                                            children: "Thank you! Your franchise inquiry has been received."
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-muted-foreground",
+                                                            children: "Initial Stock Investment"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 192,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-bold text-foreground",
+                                                            children: "₹3-5 Lakhs"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
                                                             lineNumber: 193,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-muted-foreground text-sm mt-2",
-                                                            children: "We will contact you within 48 hours."
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 194,
-                                                            columnNumber: 21
+                                                            columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 192,
-                                                    columnNumber: 19
-                                                }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
-                                                    onSubmit: handleFranchiseSubmit,
-                                                    className: "space-y-4",
+                                                    lineNumber: 191,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex justify-between items-center pb-3 border-b border-border",
                                                     children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                            type: "text",
-                                                            placeholder: "Full Name",
-                                                            value: franchiseForm.name,
-                                                            onChange: (e)=>setFranchiseForm({
-                                                                    ...franchiseForm,
-                                                                    name: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-muted-foreground",
+                                                            children: "Infrastructure Setup"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 198,
-                                                            columnNumber: 21
+                                                            lineNumber: 196,
+                                                            columnNumber: 19
                                                         }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                            type: "email",
-                                                            placeholder: "Email Address",
-                                                            value: franchiseForm.email,
-                                                            onChange: (e)=>setFranchiseForm({
-                                                                    ...franchiseForm,
-                                                                    email: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-bold text-foreground",
+                                                            children: "₹1-2 Lakhs"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 206,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                            type: "tel",
-                                                            placeholder: "Phone Number",
-                                                            value: franchiseForm.phone,
-                                                            onChange: (e)=>setFranchiseForm({
-                                                                    ...franchiseForm,
-                                                                    phone: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 214,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                            type: "text",
-                                                            placeholder: "State / Region",
-                                                            value: franchiseForm.state,
-                                                            onChange: (e)=>setFranchiseForm({
-                                                                    ...franchiseForm,
-                                                                    state: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 222,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
-                                                            placeholder: "Tell us about your business experience and investment capacity",
-                                                            value: franchiseForm.message,
-                                                            onChange: (e)=>setFranchiseForm({
-                                                                    ...franchiseForm,
-                                                                    message: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            rows: 4,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors resize-none"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 230,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                            type: "submit",
-                                                            className: "w-full px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-opacity-90 transition-all",
-                                                            children: "Submit Franchise Application"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 238,
-                                                            columnNumber: 21
+                                                            lineNumber: 197,
+                                                            columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 197,
-                                                    columnNumber: 19
+                                                    lineNumber: 195,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex justify-between items-center pb-3 border-b border-border",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-muted-foreground",
+                                                            children: "Working Capital"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 200,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-bold text-foreground",
+                                                            children: "As per need"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 201,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 199,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                    className: "flex justify-between items-center pt-2",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-foreground font-bold",
+                                                            children: "Total Investment"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 204,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-bold text-primary text-xl",
+                                                            children: "₹3-7 Lakhs"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 205,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 203,
+                                                    columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 185,
+                                            lineNumber: 190,
                                             columnNumber: 15
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "bg-card border border-border rounded-lg p-8 animate-fadeInUp",
-                                            style: {
-                                                animationDelay: "0.1s"
-                                            },
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                    className: "text-2xl font-bold text-primary mb-6",
-                                                    children: "Dealership Application"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 253,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-muted-foreground mb-6 text-sm",
-                                                    children: "Apply for dealership rights to distribute Shreyhit products in your area. We'll get back to you within 48 hours."
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 254,
-                                                    columnNumber: 17
-                                                }, this),
-                                                dealershipSubmitted ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "bg-green-500/20 border border-green-500/50 rounded-lg p-6 text-center",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-green-400 font-semibold",
-                                                            children: "Thank you! Your dealership inquiry has been received."
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 260,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                            className: "text-muted-foreground text-sm mt-2",
-                                                            children: "We will contact you within 48 hours."
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 261,
-                                                            columnNumber: 21
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 259,
-                                                    columnNumber: 19
-                                                }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
-                                                    onSubmit: handleDealershipSubmit,
-                                                    className: "space-y-4",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                            type: "text",
-                                                            placeholder: "Full Name",
-                                                            value: dealershipForm.name,
-                                                            onChange: (e)=>setDealershipForm({
-                                                                    ...dealershipForm,
-                                                                    name: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 265,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                            type: "email",
-                                                            placeholder: "Email Address",
-                                                            value: dealershipForm.email,
-                                                            onChange: (e)=>setDealershipForm({
-                                                                    ...dealershipForm,
-                                                                    email: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 273,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                            type: "tel",
-                                                            placeholder: "Phone Number",
-                                                            value: dealershipForm.phone,
-                                                            onChange: (e)=>setDealershipForm({
-                                                                    ...dealershipForm,
-                                                                    phone: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 281,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
-                                                            type: "text",
-                                                            placeholder: "Business Location / City",
-                                                            value: dealershipForm.location,
-                                                            onChange: (e)=>setDealershipForm({
-                                                                    ...dealershipForm,
-                                                                    location: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 289,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
-                                                            placeholder: "Tell us about your retail/distribution experience and network",
-                                                            value: dealershipForm.message,
-                                                            onChange: (e)=>setDealershipForm({
-                                                                    ...dealershipForm,
-                                                                    message: e.target.value
-                                                                }),
-                                                            required: true,
-                                                            rows: 4,
-                                                            className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors resize-none"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 297,
-                                                            columnNumber: 21
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                                            type: "submit",
-                                                            className: "w-full px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-opacity-90 transition-all",
-                                                            children: "Submit Dealership Application"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 305,
-                                                            columnNumber: 21
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 264,
-                                                    columnNumber: 19
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                            className: "text-muted-foreground text-xs mt-6",
+                                            children: "* Investment may vary based on territory size and market potential"
+                                        }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 249,
+                                            lineNumber: 208,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 183,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                            lineNumber: 181,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "bg-card border border-border rounded-lg p-8 mb-16 animate-fadeInUp",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                    className: "text-3xl font-bold text-primary mb-8",
-                                    children: "Investment & Requirements"
-                                }, void 0, false, {
-                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 319,
+                                    lineNumber: 188,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "grid grid-cols-1 md:grid-cols-2 gap-8",
+                                    className: "bg-card border border-border rounded-lg p-8 animate-fadeInUp",
+                                    style: {
+                                        animationDelay: "0.1s"
+                                    },
                                     children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                    className: "text-xl font-bold text-foreground mb-4",
-                                                    children: "Franchise Requirements"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 322,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                    className: "space-y-3 text-muted-foreground text-sm",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 325,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Retail space: 300-500 sq ft in prime location"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 326,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 324,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 329,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Investment: ₹5-10 lakhs (including setup)"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 330,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 328,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 333,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Business experience in retail preferred"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 334,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 332,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 337,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Commitment to brand standards"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 338,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 336,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 341,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Valid business registration documents"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 342,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 340,
-                                                            columnNumber: 19
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 323,
-                                                    columnNumber: 17
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                            className: "text-2xl font-bold text-primary mb-6",
+                                            children: "Requirements"
+                                        }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 321,
+                                            lineNumber: 214,
                                             columnNumber: 15
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                            className: "space-y-3 text-muted-foreground text-sm",
                                             children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                    className: "text-xl font-bold text-foreground mb-4",
-                                                    children: "Dealership Requirements"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 347,
-                                                    columnNumber: 17
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                    className: "space-y-3 text-muted-foreground text-sm",
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    className: "flex items-start gap-3",
                                                     children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 350,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Warehouse/storage facility"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 351,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold",
+                                                            children: "•"
+                                                        }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 349,
+                                                            lineNumber: 217,
                                                             columnNumber: 19
                                                         }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 354,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Investment: ₹3-7 lakhs (initial stock)"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 355,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            children: "Warehouse or storage facility (minimum 500 sq ft)"
+                                                        }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 353,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 358,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Existing distribution network preferred"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 359,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 357,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 362,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "Transportation arrangement capability"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 363,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 361,
-                                                            columnNumber: 19
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                            className: "flex items-start gap-3",
-                                                            children: [
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    className: "text-primary font-bold",
-                                                                    children: "•"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 366,
-                                                                    columnNumber: 21
-                                                                }, this),
-                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                    children: "GST registration and trade license"
-                                                                }, void 0, false, {
-                                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                                    lineNumber: 367,
-                                                                    columnNumber: 21
-                                                                }, this)
-                                                            ]
-                                                        }, void 0, true, {
-                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                            lineNumber: 365,
+                                                            lineNumber: 218,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                                    lineNumber: 348,
+                                                    lineNumber: 216,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold",
+                                                            children: "•"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 221,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            children: "Valid GST registration and trade license"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 222,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 220,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold",
+                                                            children: "•"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 225,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            children: "Existing distribution network preferred"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 226,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 224,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold",
+                                                            children: "•"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 229,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            children: "Transportation arrangement capability"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 230,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 228,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold",
+                                                            children: "•"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 233,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            children: "Experience in FMCG/consumer goods distribution"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 234,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 232,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold",
+                                                            children: "•"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 237,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            children: "Strong local market knowledge and connections"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 238,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 236,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                    className: "flex items-start gap-3",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-primary font-bold",
+                                                            children: "•"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 241,
+                                                            columnNumber: 19
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            children: "Commitment to brand standards and quality"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                            lineNumber: 242,
+                                                            columnNumber: 19
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                    lineNumber: 240,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                            lineNumber: 346,
+                                            lineNumber: 215,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 320,
+                                    lineNumber: 213,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                            lineNumber: 318,
+                            lineNumber: 187,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "max-w-2xl mx-auto mb-16",
+                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "bg-card border border-border rounded-lg p-8 animate-fadeInUp",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                        className: "text-2xl font-bold text-primary mb-6 text-center",
+                                        children: "Apply for Dealership"
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                        lineNumber: 251,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-muted-foreground mb-6 text-sm text-center",
+                                        children: "Fill out the form below and our dealership team will contact you within 48 hours to discuss the opportunity."
+                                    }, void 0, false, {
+                                        fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                        lineNumber: 252,
+                                        columnNumber: 15
+                                    }, this),
+                                    submitted ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "bg-green-500/20 border border-green-500/50 rounded-lg p-6 text-center",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-green-400 font-semibold",
+                                                children: "Thank you! Your dealership application has been received."
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                lineNumber: 258,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-muted-foreground text-sm mt-2",
+                                                children: "Our team will contact you within 48 hours."
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                lineNumber: 259,
+                                                columnNumber: 19
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                        lineNumber: 257,
+                                        columnNumber: 17
+                                    }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
+                                        onSubmit: handleSubmit,
+                                        className: "space-y-4",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                type: "text",
+                                                placeholder: "Full Name",
+                                                value: dealershipForm.name,
+                                                onChange: (e)=>setDealershipForm({
+                                                        ...dealershipForm,
+                                                        name: e.target.value
+                                                    }),
+                                                required: true,
+                                                className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                lineNumber: 263,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                type: "email",
+                                                placeholder: "Email Address",
+                                                value: dealershipForm.email,
+                                                onChange: (e)=>setDealershipForm({
+                                                        ...dealershipForm,
+                                                        email: e.target.value
+                                                    }),
+                                                required: true,
+                                                className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                lineNumber: 271,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                type: "tel",
+                                                placeholder: "Phone Number",
+                                                value: dealershipForm.phone,
+                                                onChange: (e)=>setDealershipForm({
+                                                        ...dealershipForm,
+                                                        phone: e.target.value
+                                                    }),
+                                                required: true,
+                                                className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                lineNumber: 279,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                                                type: "text",
+                                                placeholder: "Business Location / City",
+                                                value: dealershipForm.location,
+                                                onChange: (e)=>setDealershipForm({
+                                                        ...dealershipForm,
+                                                        location: e.target.value
+                                                    }),
+                                                required: true,
+                                                className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                lineNumber: 287,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
+                                                placeholder: "Tell us about your distribution experience and network",
+                                                value: dealershipForm.message,
+                                                onChange: (e)=>setDealershipForm({
+                                                        ...dealershipForm,
+                                                        message: e.target.value
+                                                    }),
+                                                required: true,
+                                                rows: 5,
+                                                className: "w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground placeholder-muted-foreground focus:outline-none focus:border-primary transition-colors resize-none"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                lineNumber: 295,
+                                                columnNumber: 19
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                type: "submit",
+                                                className: "w-full px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-opacity-90 transition-all",
+                                                children: "Submit Dealership Application"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                                lineNumber: 303,
+                                                columnNumber: 19
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                        lineNumber: 262,
+                                        columnNumber: 17
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                                lineNumber: 250,
+                                columnNumber: 13
+                            }, this)
+                        }, void 0, false, {
+                            fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
+                            lineNumber: 249,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1855,18 +1764,18 @@ function DealershipPage() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     className: "text-3xl font-bold text-primary mb-8 text-center",
-                                    children: "ISO 9001:2015 Certified"
+                                    children: "Partner with a Certified Brand"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 376,
+                                    lineNumber: 316,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-center text-muted-foreground mb-8",
-                                    children: "Partner with a certified manufacturer committed to quality excellence"
+                                    children: "Shreyhit is ISO 9001:2015 certified, ensuring the highest quality standards in manufacturing"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 377,
+                                    lineNumber: 317,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1879,12 +1788,12 @@ function DealershipPage() {
                                         className: "w-full h-auto object-contain"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                        lineNumber: 381,
+                                        lineNumber: 321,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 380,
+                                    lineNumber: 320,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1892,29 +1801,29 @@ function DealershipPage() {
                                     children: "Certificate No: 23QTR619 | Valid until: 25/06/2028"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                                    lineNumber: 389,
+                                    lineNumber: 329,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                            lineNumber: 375,
+                            lineNumber: 315,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                    lineNumber: 38,
+                    lineNumber: 27,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                lineNumber: 37,
+                lineNumber: 26,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$components$2f$footer$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Footer"], {}, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx",
-                lineNumber: 395,
+                lineNumber: 335,
                 columnNumber: 7
             }, this)
         ]

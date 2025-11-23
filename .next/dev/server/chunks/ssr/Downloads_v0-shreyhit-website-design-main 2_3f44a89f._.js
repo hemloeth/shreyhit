@@ -508,6 +508,18 @@ const products = [
         ]
     },
     {
+        name: "Shreyhit Premium Aata",
+        category: "Food & Beverages",
+        image: "/wheat-flour.jpg",
+        description: "Pure whole wheat flour freshly ground for healthy and nutritious rotis and parathas",
+        benefits: [
+            "100% Whole Wheat",
+            "Fresh Ground",
+            "High Fiber",
+            "No Additives"
+        ]
+    },
+    {
         name: "Shreyhit Detergent Powder",
         category: "Cleaning",
         image: "/detergent-powder-product.jpg",
@@ -549,7 +561,7 @@ function ProductsPage() {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$components$2f$navigation$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Navigation"], {}, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                lineNumber: 55,
+                lineNumber: 62,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
@@ -565,7 +577,7 @@ function ProductsPage() {
                                     children: "Our Products"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                    lineNumber: 60,
+                                    lineNumber: 67,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -573,13 +585,13 @@ function ProductsPage() {
                                     children: "Discover our complete range of premium, ISO 9001 certified products manufactured with excellence and care. Each product is crafted to meet the highest quality standards."
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                    lineNumber: 61,
+                                    lineNumber: 68,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                            lineNumber: 59,
+                            lineNumber: 66,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -601,7 +613,7 @@ function ProductsPage() {
                                                     className: "w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 77,
+                                                    lineNumber: 84,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -609,13 +621,13 @@ function ProductsPage() {
                                                     children: product.category
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 84,
+                                                    lineNumber: 91,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 76,
+                                            lineNumber: 83,
                                             columnNumber: 17
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -626,7 +638,7 @@ function ProductsPage() {
                                                     children: product.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 91,
+                                                    lineNumber: 98,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -634,7 +646,7 @@ function ProductsPage() {
                                                     children: product.description
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 92,
+                                                    lineNumber: 99,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -645,7 +657,7 @@ function ProductsPage() {
                                                             children: "Key Benefits"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 95,
+                                                            lineNumber: 102,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -655,18 +667,18 @@ function ProductsPage() {
                                                                     children: benefit
                                                                 }, idx, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 98,
+                                                                    lineNumber: 105,
                                                                     columnNumber: 25
                                                                 }, this))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 96,
+                                                            lineNumber: 103,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 94,
+                                                    lineNumber: 101,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -674,24 +686,24 @@ function ProductsPage() {
                                                     children: "View Details"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 105,
+                                                    lineNumber: 112,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 90,
+                                            lineNumber: 97,
                                             columnNumber: 17
                                         }, this)
                                     ]
                                 }, i, true, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                    lineNumber: 70,
+                                    lineNumber: 77,
                                     columnNumber: 15
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                            lineNumber: 68,
+                            lineNumber: 75,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -702,7 +714,7 @@ function ProductsPage() {
                                     children: "ISO 9001:2015 Certification"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                    lineNumber: 114,
+                                    lineNumber: 121,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -718,12 +730,12 @@ function ProductsPage() {
                                                 className: "w-full h-auto object-contain"
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                lineNumber: 117,
+                                                lineNumber: 124,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 116,
+                                            lineNumber: 123,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -734,7 +746,7 @@ function ProductsPage() {
                                                     children: "Quality Assurance Commitment"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 127,
+                                                    lineNumber: 134,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -742,7 +754,7 @@ function ProductsPage() {
                                                     children: "All our products are manufactured under ISO 9001:2015 quality management standards, ensuring consistent excellence, reliability, and customer satisfaction across every product line."
                                                 }, void 0, false, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 128,
+                                                    lineNumber: 135,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -756,7 +768,7 @@ function ProductsPage() {
                                                                     children: "Certificate Number"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 135,
+                                                                    lineNumber: 142,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -764,13 +776,13 @@ function ProductsPage() {
                                                                     children: "23QTR619"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 136,
+                                                                    lineNumber: 143,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 134,
+                                                            lineNumber: 141,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -781,7 +793,7 @@ function ProductsPage() {
                                                                     children: "Certification Date"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 139,
+                                                                    lineNumber: 146,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -789,13 +801,13 @@ function ProductsPage() {
                                                                     children: "25/06/2025"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 140,
+                                                                    lineNumber: 147,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 138,
+                                                            lineNumber: 145,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -806,7 +818,7 @@ function ProductsPage() {
                                                                     children: "Valid Until"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 143,
+                                                                    lineNumber: 150,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -814,19 +826,19 @@ function ProductsPage() {
                                                                     children: "25/06/2028"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 144,
+                                                                    lineNumber: 151,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 142,
+                                                            lineNumber: 149,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 133,
+                                                    lineNumber: 140,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -840,20 +852,20 @@ function ProductsPage() {
                                                                     children: "✓"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 150,
+                                                                    lineNumber: 157,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     children: "International Quality Management Standards"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 151,
+                                                                    lineNumber: 158,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 149,
+                                                            lineNumber: 156,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -864,20 +876,20 @@ function ProductsPage() {
                                                                     children: "✓"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 154,
+                                                                    lineNumber: 161,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     children: "Regular Audits & Compliance Checks"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 155,
+                                                                    lineNumber: 162,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 153,
+                                                            lineNumber: 160,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -888,20 +900,20 @@ function ProductsPage() {
                                                                     children: "✓"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 158,
+                                                                    lineNumber: 165,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     children: "Continuous Process Improvement"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 159,
+                                                                    lineNumber: 166,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 157,
+                                                            lineNumber: 164,
                                                             columnNumber: 19
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -912,44 +924,44 @@ function ProductsPage() {
                                                                     children: "✓"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 162,
+                                                                    lineNumber: 169,
                                                                     columnNumber: 21
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     children: "Customer Satisfaction Focus"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                                    lineNumber: 163,
+                                                                    lineNumber: 170,
                                                                     columnNumber: 21
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 161,
+                                                            lineNumber: 168,
                                                             columnNumber: 19
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 148,
+                                                    lineNumber: 155,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 126,
+                                            lineNumber: 133,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                    lineNumber: 115,
+                                    lineNumber: 122,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                            lineNumber: 113,
+                            lineNumber: 120,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -966,7 +978,7 @@ function ProductsPage() {
                                             children: "Daily Essentials"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 173,
+                                            lineNumber: 180,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -974,7 +986,7 @@ function ProductsPage() {
                                             children: "Our range includes essential products for daily hygiene and household cleaning, all manufactured to the highest quality standards."
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 174,
+                                            lineNumber: 181,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -988,14 +1000,14 @@ function ProductsPage() {
                                                             children: "•"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 180,
+                                                            lineNumber: 187,
                                                             columnNumber: 19
                                                         }, this),
                                                         " Premium Tea"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 179,
+                                                    lineNumber: 186,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1006,14 +1018,14 @@ function ProductsPage() {
                                                             children: "•"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 183,
+                                                            lineNumber: 190,
                                                             columnNumber: 19
                                                         }, this),
                                                         " Ergonomic Toothbrush"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 182,
+                                                    lineNumber: 189,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1024,26 +1036,26 @@ function ProductsPage() {
                                                             children: "•"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 186,
+                                                            lineNumber: 193,
                                                             columnNumber: 19
                                                         }, this),
                                                         " Detergent Powder"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 185,
+                                                    lineNumber: 192,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 178,
+                                            lineNumber: 185,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                    lineNumber: 172,
+                                    lineNumber: 179,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1054,7 +1066,7 @@ function ProductsPage() {
                                             children: "Personal Care"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 191,
+                                            lineNumber: 198,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1062,7 +1074,7 @@ function ProductsPage() {
                                             children: "Specialized personal care products designed with comfort, hygiene, and quality as our top priorities."
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 192,
+                                            lineNumber: 199,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1076,14 +1088,14 @@ function ProductsPage() {
                                                             children: "•"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 197,
+                                                            lineNumber: 204,
                                                             columnNumber: 19
                                                         }, this),
                                                         " Sanitary Pads"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 196,
+                                                    lineNumber: 203,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1094,14 +1106,14 @@ function ProductsPage() {
                                                             children: "•"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 200,
+                                                            lineNumber: 207,
                                                             columnNumber: 19
                                                         }, this),
                                                         " Kitchen Scrubber"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 199,
+                                                    lineNumber: 206,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1112,48 +1124,48 @@ function ProductsPage() {
                                                             children: "•"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                            lineNumber: 203,
+                                                            lineNumber: 210,
                                                             columnNumber: 19
                                                         }, this),
                                                         " Premium Dry Fruits"
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                                    lineNumber: 202,
+                                                    lineNumber: 209,
                                                     columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                            lineNumber: 195,
+                                            lineNumber: 202,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                                    lineNumber: 190,
+                                    lineNumber: 197,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                            lineNumber: 171,
+                            lineNumber: 178,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                    lineNumber: 57,
+                    lineNumber: 64,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                lineNumber: 56,
+                lineNumber: 63,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$components$2f$footer$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Footer"], {}, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page.tsx",
-                lineNumber: 210,
+                lineNumber: 217,
                 columnNumber: 7
             }, this)
         ]

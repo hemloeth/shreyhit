@@ -716,6 +716,16 @@ function Home() {
                                             ]
                                         },
                                         {
+                                            name: "Premium Aata",
+                                            desc: "Pure whole wheat flour for healthy and nutritious rotis",
+                                            image: "/wheat-flour.jpg",
+                                            features: [
+                                                "100% Whole Wheat",
+                                                "Fresh Ground",
+                                                "High Fiber"
+                                            ]
+                                        },
+                                        {
                                             name: "Detergent Powder",
                                             desc: "Powerful cleaning formula for pristine white clothes",
                                             image: "/detergent-powder-product.jpg",
@@ -761,20 +771,20 @@ function Home() {
                                                             className: "object-cover group-hover:scale-110 transition-transform duration-500"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                            lineNumber: 145,
+                                                            lineNumber: 151,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "absolute inset-0 bg-gradient-to-t from-background/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                            lineNumber: 151,
+                                                            lineNumber: 157,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                    lineNumber: 144,
+                                                    lineNumber: 150,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -785,7 +795,7 @@ function Home() {
                                                             children: product.name
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                            lineNumber: 156,
+                                                            lineNumber: 162,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -793,7 +803,7 @@ function Home() {
                                                             children: product.desc
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                            lineNumber: 157,
+                                                            lineNumber: 163,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -803,12 +813,12 @@ function Home() {
                                                                     children: feature
                                                                 }, i, false, {
                                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                                    lineNumber: 162,
+                                                                    lineNumber: 168,
                                                                     columnNumber: 25
                                                                 }, this))
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                            lineNumber: 160,
+                                                            lineNumber: 166,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -817,19 +827,19 @@ function Home() {
                                                             children: "Learn More →"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                            lineNumber: 168,
+                                                            lineNumber: 174,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                    lineNumber: 155,
+                                                    lineNumber: 161,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, index, true, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                            lineNumber: 138,
+                                            lineNumber: 144,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
@@ -868,7 +878,7 @@ function Home() {
                                     {
                                         label: "Expert Leadership",
                                         value: "Prince Srivastava",
-                                        desc: "Founder & Owner - 10+ years experience"
+                                        desc: "Founder & Owner - 5+ years experience"
                                     }
                                 ].map((stat, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "text-center p-8 rounded-lg border border-border hover:border-primary/50 transition-all animate-fadeInUp",
@@ -881,7 +891,7 @@ function Home() {
                                                 children: stat.label
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                lineNumber: 207,
+                                                lineNumber: 213,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -889,7 +899,7 @@ function Home() {
                                                 children: stat.value
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                lineNumber: 208,
+                                                lineNumber: 214,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -897,28 +907,28 @@ function Home() {
                                                 children: stat.desc
                                             }, void 0, false, {
                                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                                lineNumber: 209,
+                                                lineNumber: 215,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, i, true, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                        lineNumber: 202,
+                                        lineNumber: 208,
                                         columnNumber: 17
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                                lineNumber: 184,
+                                lineNumber: 190,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                            lineNumber: 183,
+                            lineNumber: 189,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                        lineNumber: 182,
+                        lineNumber: 188,
                         columnNumber: 9
                     }, this)
                 ]
@@ -929,7 +939,7 @@ function Home() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$components$2f$footer$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Footer"], {}, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page.tsx",
-                lineNumber: 216,
+                lineNumber: 222,
                 columnNumber: 7
             }, this)
         ]

@@ -113,10 +113,10 @@ function Navigation() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                         href: "/",
-                        className: "flex items-center gap-2 sm:gap-3 group flex-1 min-w-0",
+                        className: "flex items-center gap-2 sm:gap-3 group flex-1 min-w-0 mr-2",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "w-10 sm:w-12 h-10 sm:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity flex-shrink-0",
+                                className: "w-9 sm:w-10 md:w-12 h-9 sm:h-10 md:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity flex-shrink-0",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                                     src: "/shreyhit-logo.png",
                                     alt: "Shreyhit Logo",
@@ -134,39 +134,22 @@ function Navigation() {
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "block min-w-0",
+                                className: "block min-w-0 flex-1",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "text-xs sm:text-base md:text-lg font-bold text-foreground leading-tight",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "hidden sm:inline",
-                                                children: "Shreyhit Manufacturer (OPC) Pvt. Ltd."
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                                lineNumber: 20,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "sm:hidden",
-                                                children: "Shreyhit Manufacturer"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                                lineNumber: 21,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                        className: "text-[10px] leading-tight sm:text-sm md:text-base lg:text-lg font-bold text-foreground",
+                                        children: "Shreyhit Manufacturer (OPC) Pvt. Ltd."
+                                    }, void 0, false, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
                                         lineNumber: 19,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "text-xs text-muted-foreground hidden sm:block",
+                                        className: "text-[8px] sm:text-xs text-muted-foreground leading-tight",
                                         children: "ISO 9001:2015 Certified"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                        lineNumber: 23,
+                                        lineNumber: 22,
                                         columnNumber: 13
                                     }, this)
                                 ]
@@ -185,7 +168,7 @@ function Navigation() {
                         variant: "desktop"
                     }, void 0, false, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 28,
+                        lineNumber: 27,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -197,27 +180,27 @@ function Navigation() {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "rotate-45 translate-y-2" : ""}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 36,
+                                lineNumber: 35,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "opacity-0" : "opacity-100"}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 39,
+                                lineNumber: 38,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "-rotate-45 -translate-y-2" : ""}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 42,
+                                lineNumber: 41,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 31,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, this)
                 ]
@@ -235,17 +218,17 @@ function Navigation() {
                         onItemClick: ()=>setIsOpen(false)
                     }, void 0, false, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 54,
+                        lineNumber: 53,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                    lineNumber: 53,
+                    lineNumber: 52,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                lineNumber: 52,
+                lineNumber: 51,
                 columnNumber: 9
             }, this)
         ]
@@ -518,15 +501,15 @@ function ContactPage() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-                className: "min-h-screen pt-24 pb-16 px-6 bg-gradient-to-b from-background to-card",
+                className: "min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16 px-4 sm:px-6 bg-gradient-to-b from-background to-card",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "max-w-6xl mx-auto",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "mb-16 animate-fadeInUp text-center",
+                            className: "mb-12 sm:mb-16 animate-fadeInUp text-center px-4",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                    className: "text-5xl font-bold text-primary mb-4",
+                                    className: "text-3xl sm:text-4xl md:text-5xl font-bold text-primary mb-3 sm:mb-4",
                                     children: "Contact Us"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
@@ -534,7 +517,7 @@ function ContactPage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-muted-foreground text-lg",
+                                    className: "text-muted-foreground text-sm sm:text-base md:text-lg",
                                     children: "Get in touch with us for any inquiries or support"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
@@ -548,13 +531,13 @@ function ContactPage() {
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "grid grid-cols-1 md:grid-cols-3 gap-8 mb-16",
+                            className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8 mb-12 sm:mb-16",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "bg-card border border-border rounded-lg p-8 animate-fadeInUp",
+                                    className: "bg-card border border-border rounded-lg p-6 sm:p-8 animate-fadeInUp",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-3xl font-bold text-primary mb-4",
+                                            className: "text-2xl sm:text-3xl font-bold text-primary mb-3 sm:mb-4",
                                             children: "📞"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
@@ -562,15 +545,16 @@ function ContactPage() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                            className: "text-xl font-bold text-foreground mb-2",
+                                            className: "text-lg sm:text-xl font-bold text-foreground mb-2",
                                             children: "Phone"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
                                             lineNumber: 39,
                                             columnNumber: 15
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-muted-foreground",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "tel:+916391391576",
+                                            className: "text-muted-foreground hover:text-primary transition-colors",
                                             children: "+91 63913 91576"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
@@ -584,13 +568,13 @@ function ContactPage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "bg-card border border-border rounded-lg p-8 animate-fadeInUp",
+                                    className: "bg-card border border-border rounded-lg p-6 sm:p-8 animate-fadeInUp",
                                     style: {
                                         animationDelay: "0.1s"
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-3xl font-bold text-primary mb-4",
+                                            className: "text-2xl sm:text-3xl font-bold text-primary mb-3 sm:mb-4",
                                             children: "📍"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
@@ -598,7 +582,7 @@ function ContactPage() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                            className: "text-xl font-bold text-foreground mb-2",
+                                            className: "text-lg sm:text-xl font-bold text-foreground mb-2",
                                             children: "Address"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
@@ -606,7 +590,7 @@ function ContactPage() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-muted-foreground text-sm",
+                                            className: "text-muted-foreground text-xs sm:text-sm",
                                             children: "Goverdhanpur Bazar, Utraula, Balrampur 271604, UP, India"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
@@ -620,13 +604,13 @@ function ContactPage() {
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "bg-card border border-border rounded-lg p-8 animate-fadeInUp",
+                                    className: "bg-card border border-border rounded-lg p-6 sm:p-8 animate-fadeInUp sm:col-span-2 md:col-span-1",
                                     style: {
                                         animationDelay: "0.2s"
                                     },
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "text-3xl font-bold text-primary mb-4",
+                                            className: "text-2xl sm:text-3xl font-bold text-primary mb-3 sm:mb-4",
                                             children: "✉️"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
@@ -634,15 +618,16 @@ function ContactPage() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                            className: "text-xl font-bold text-foreground mb-2",
+                                            className: "text-lg sm:text-xl font-bold text-foreground mb-2",
                                             children: "Email"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
                                             lineNumber: 55,
                                             columnNumber: 15
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-muted-foreground",
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "mailto:contact@shreyhit.com",
+                                            className: "text-muted-foreground hover:text-primary transition-colors text-sm sm:text-base",
                                             children: "contact@shreyhit.com"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page.tsx",
