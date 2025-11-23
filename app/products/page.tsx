@@ -29,7 +29,7 @@ const products = [
   {
     name: "Shreyhit Premium Aata",
     category: "Food & Beverages",
-    image: "/placeholder.jpg",
+    image: "/wheat-flour.jpg",
     description: "Pure whole wheat flour freshly ground for healthy and nutritious rotis and parathas",
     benefits: ["100% Whole Wheat", "Fresh Ground", "High Fiber", "No Additives"],
   },

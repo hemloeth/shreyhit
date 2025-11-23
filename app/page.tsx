@@ -119,7 +119,7 @@ export default function Home() {
                 {
                   name: "Premium Aata",
                   desc: "Pure whole wheat flour for healthy and nutritious rotis",
-                  image: "/placeholder.jpg",
+                  image: "/wheat-flour.jpg",
                   features: ["100% Whole Wheat", "Fresh Ground", "High Fiber"],
                 },
                 {
