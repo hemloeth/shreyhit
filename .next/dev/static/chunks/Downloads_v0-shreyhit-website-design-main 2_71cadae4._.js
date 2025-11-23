@@ -128,10 +128,10 @@ function Navigation() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                         href: "/",
-                        className: "flex items-center gap-2 sm:gap-3 group flex-1 min-w-0",
+                        className: "flex items-center gap-2 sm:gap-3 group flex-1 min-w-0 mr-2",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "w-10 sm:w-12 h-10 sm:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity flex-shrink-0",
+                                className: "w-9 sm:w-10 md:w-12 h-9 sm:h-10 md:h-12 rounded-full flex items-center justify-center group-hover:opacity-80 transition-opacity flex-shrink-0",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                     src: "/shreyhit-logo.png",
                                     alt: "Shreyhit Logo",
@@ -149,39 +149,22 @@ function Navigation() {
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "block min-w-0",
+                                className: "block min-w-0 flex-1",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "text-xs sm:text-base md:text-lg font-bold text-foreground leading-tight",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "hidden sm:inline",
-                                                children: "Shreyhit Manufacturer (OPC) Pvt. Ltd."
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                                lineNumber: 20,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "sm:hidden",
-                                                children: "Shreyhit Manufacturer"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                                lineNumber: 21,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                        className: "text-[10px] leading-tight sm:text-sm md:text-base lg:text-lg font-bold text-foreground",
+                                        children: "Shreyhit Manufacturer (OPC) Pvt. Ltd."
+                                    }, void 0, false, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
                                         lineNumber: 19,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "text-xs text-muted-foreground hidden sm:block",
+                                        className: "text-[8px] sm:text-xs text-muted-foreground leading-tight",
                                         children: "ISO 9001:2015 Certified"
                                     }, void 0, false, {
                                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                        lineNumber: 23,
+                                        lineNumber: 22,
                                         columnNumber: 13
                                     }, this)
                                 ]
@@ -200,7 +183,7 @@ function Navigation() {
                         variant: "desktop"
                     }, void 0, false, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 28,
+                        lineNumber: 27,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -212,27 +195,27 @@ function Navigation() {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "rotate-45 translate-y-2" : ""}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 36,
+                                lineNumber: 35,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "opacity-0" : "opacity-100"}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 39,
+                                lineNumber: 38,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: `w-6 h-0.5 bg-foreground transition-all duration-300 ${isOpen ? "-rotate-45 -translate-y-2" : ""}`
                             }, void 0, false, {
                                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                                lineNumber: 42,
+                                lineNumber: 41,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 31,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, this)
                 ]
@@ -250,17 +233,17 @@ function Navigation() {
                         onItemClick: ()=>setIsOpen(false)
                     }, void 0, false, {
                         fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                        lineNumber: 54,
+                        lineNumber: 53,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                    lineNumber: 53,
+                    lineNumber: 52,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/components/navigation.tsx",
-                lineNumber: 52,
+                lineNumber: 51,
                 columnNumber: 9
             }, this)
         ]
@@ -540,7 +523,7 @@ function AboutPage() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-                className: "min-h-screen pt-24 pb-16 px-6 bg-gradient-to-b from-background to-card",
+                className: "min-h-screen pt-20 sm:pt-24 pb-12 sm:pb-16 px-4 sm:px-6 bg-gradient-to-b from-background to-card",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "max-w-6xl mx-auto",
                     children: [
@@ -548,10 +531,10 @@ function AboutPage() {
                             className: "mb-16 animate-fadeInUp",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "bg-gradient-to-r from-primary/20 to-accent/20 border border-primary/30 rounded-lg p-8 mb-16",
+                                    className: "bg-gradient-to-r from-primary/20 to-accent/20 border border-primary/30 rounded-lg p-6 sm:p-8 mb-12 sm:mb-16",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                            className: "text-5xl font-bold text-primary mb-4",
+                                            className: "text-3xl sm:text-4xl md:text-5xl font-bold text-primary mb-3 sm:mb-4",
                                             children: "About Shreyhit Manufacturer"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/about/page.tsx",
@@ -559,7 +542,7 @@ function AboutPage() {
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$v0$2d$shreyhit$2d$website$2d$design$2d$main__2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                            className: "text-xl text-muted-foreground max-w-3xl",
+                                            className: "text-base sm:text-lg md:text-xl text-muted-foreground max-w-3xl",
                                             children: "Shreyhit Manufacturer (OPC) Private Limited - Your Trusted Partner in Premium Quality Consumer Products"
                                         }, void 0, false, {
                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/about/page.tsx",
@@ -713,7 +696,7 @@ function AboutPage() {
                                                                                     lineNumber: 73,
                                                                                     columnNumber: 25
                                                                                 }, this),
-                                                                                " 6+ Premium Lines"
+                                                                                " 7+ Premium Lines"
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Downloads/v0-shreyhit-website-design-main 2/app/about/page.tsx",

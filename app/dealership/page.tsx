@@ -54,7 +54,7 @@ export default function DealershipPage() {
                 </p>
                 <div className="flex flex-wrap gap-4">
                   <div className="bg-card border border-border rounded-lg px-4 py-2">
-                    <div className="text-2xl font-bold text-primary">6+</div>
+                    <div className="text-2xl font-bold text-primary">7+</div>
                     <div className="text-xs text-muted-foreground">Products</div>
                   </div>
                   <div className="bg-card border border-border rounded-lg px-4 py-2">

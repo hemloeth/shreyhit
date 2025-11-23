@@ -70,7 +70,7 @@ export default function AboutPage() {
                     <li className="flex items-start gap-2">
                       <span className="text-primary font-bold">✓</span>
                       <span>
-                        <strong>Products:</strong> 6+ Premium Lines
+                        <strong>Products:</strong> 7+ Premium Lines
                       </span>
                     </li>
                     <li className="flex items-start gap-2">

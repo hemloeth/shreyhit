@@ -47,7 +47,7 @@ export default function FranchisePage() {
                     <div className="text-xs text-muted-foreground">Investment</div>
                   </div>
                   <div className="bg-card border border-border rounded-lg px-4 py-2">
-                    <div className="text-2xl font-bold text-primary">6+</div>
+                    <div className="text-2xl font-bold text-primary">7+</div>
                     <div className="text-xs text-muted-foreground">Products</div>
                   </div>
                   <div className="bg-card border border-border rounded-lg px-4 py-2">
@@ -139,7 +139,7 @@ export default function FranchisePage() {
                   <span className="text-primary font-bold text-xl">✓</span>
                   <div>
                     <h4 className="font-bold text-foreground mb-1">Product Portfolio</h4>
-                    <p className="text-muted-foreground text-sm">Access to our complete range of 6+ premium products</p>
+                    <p className="text-muted-foreground text-sm">Access to our complete range of 7+ premium products</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">

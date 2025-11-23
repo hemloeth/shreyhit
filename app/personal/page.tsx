@@ -240,7 +240,7 @@ export default function PersonalPage() {
                 <div>
                   <h4 className="font-bold text-foreground mb-1">Diverse Product Portfolio</h4>
                   <p className="text-muted-foreground text-sm">
-                    Launched 6+ premium product lines across multiple consumer categories
+                    Launched 7+ premium product lines across multiple consumer categories
                   </p>
                 </div>
               </div>
