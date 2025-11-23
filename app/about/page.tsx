@@ -1,24 +1,10 @@
 "use client"
 
-import { useState } from "react"
 import { Navigation } from "@/components/navigation"
 import { Footer } from "@/components/footer"
 import Image from "next/image"
 
 export default function AboutPage() {
-  const [showSecret, setShowSecret] = useState(false)
-  const [password, setPassword] = useState("")
-  const [error, setError] = useState("")
-
-  const handleUnlock = () => {
-    if (password === "shreyhit123") {
-      setShowSecret(true)
-      setError("")
-      setPassword("")
-    } else {
-      setError("Incorrect password. Try again.")
-    }
-  }
 
   return (
     <>
@@ -233,98 +219,6 @@ export default function AboutPage() {
             </div>
           </div>
 
-          {/* Unlock Secret Section */}
-          <div
-            className="bg-card border border-border rounded-lg p-8 mb-12 animate-fadeInUp"
-            style={{ animationDelay: "0.6s" }}
-          >
-            <h2 className="text-2xl font-bold text-primary mb-6">Exclusive Access</h2>
-            <p className="text-muted-foreground mb-6">
-              Unlock exclusive company information and insider details. Enter the access code to reveal confidential
-              information reserved for special partners and stakeholders.
-            </p>
-
-            {!showSecret ? (
-              <div className="space-y-4">
-                <input
-                  type="password"
-                  value={password}
-                  onChange={(e) => {
-                    setPassword(e.target.value)
-                    setError("")
-                  }}
-                  onKeyPress={(e) => e.key === "Enter" && handleUnlock()}
-                  placeholder="Enter access code"
-                  className="w-full px-4 py-3 bg-background border border-border rounded-lg text-foreground focus:outline-none focus:border-primary transition-colors"
-                />
-                {error && <p className="text-red-500 text-sm font-semibold">{error}</p>}
-                <button
-                  onClick={handleUnlock}
-                  className="w-full px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-opacity-90 transition-all transform hover:scale-105"
-                >
-                  Unlock Secret Content
-                </button>
-              </div>
-            ) : (
-              <div className="space-y-6 animate-fadeInUp">
-                <div className="bg-background border border-primary/30 rounded-lg p-6 space-y-4">
-                  <h3 className="text-xl font-bold text-primary">Secret Company Information</h3>
-
-                  <div className="space-y-4">
-                    <div className="bg-card border border-border rounded-lg p-4">
-                      <p className="text-primary font-bold mb-2">Executive Leadership</p>
-                      <p className="text-muted-foreground text-sm">
-                        Founded by visionary entrepreneur Prince Srivastava, our company has established itself as a
-                        trusted manufacturer of premium consumer products. His strategic vision and commitment to
-                        quality excellence have positioned Shreyhit as a leader in manufacturing innovation.
-                      </p>
-                    </div>
-
-                    <div className="bg-card border border-border rounded-lg p-4">
-                      <p className="text-primary font-bold mb-2">Direct Executive Contact</p>
-                      <p className="text-muted-foreground text-sm font-semibold">Prince Srivastava (Founder & CEO)</p>
-                      <p className="text-foreground font-bold">+91 63913 91576</p>
-                    </div>
-
-                    <div className="bg-card border border-border rounded-lg p-4">
-                      <p className="text-primary font-bold mb-2">Manufacturing Headquarters</p>
-                      <p className="text-muted-foreground text-sm">
-                        Goverdhanpur Bazar, Utraula, Balrampur 271604, Uttar Pradesh, India
-                      </p>
-                    </div>
-
-                    <div className="bg-card border border-border rounded-lg p-4">
-                      <p className="text-primary font-bold mb-2">Manufacturing Excellence & Certification</p>
-                      <p className="text-muted-foreground text-sm">
-                        Our ISO 9001:2015 certification reflects our unwavering commitment to maintaining the highest
-                        manufacturing standards and quality assurance. Each product undergoes rigorous quality checks,
-                        testing procedures, and compliance verification to ensure customer satisfaction and safety.
-                      </p>
-                    </div>
-
-                    <div className="bg-card border border-border rounded-lg p-4">
-                      <p className="text-primary font-bold mb-2">Strategic Growth & Expansion</p>
-                      <p className="text-muted-foreground text-sm">
-                        We are actively expanding our franchise and dealership network across India to bring our premium
-                        products closer to consumers. Strategic partnerships and business collaborations are integral to
-                        our growth vision.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <button
-                  onClick={() => {
-                    setShowSecret(false)
-                    setPassword("")
-                  }}
-                  className="w-full px-6 py-3 bg-background border border-primary text-primary rounded-lg font-semibold hover:bg-primary/10 transition-colors"
-                >
-                  Lock Access
-                </button>
-              </div>
-            )}
-          </div>
         </div>
       </main>
       <Footer />
