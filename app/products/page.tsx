@@ -27,6 +27,13 @@ const products = [
     benefits: ["Hand-Picked", "High Nutrition", "Premium Quality", "Delicious Taste"],
   },
   {
+    name: "Shreyhit Premium Aata",
+    category: "Food & Beverages",
+    image: "/placeholder.jpg",
+    description: "Pure whole wheat flour freshly ground for healthy and nutritious rotis and parathas",
+    benefits: ["100% Whole Wheat", "Fresh Ground", "High Fiber", "No Additives"],
+  },
+  {
     name: "Shreyhit Detergent Powder",
     category: "Cleaning",
     image: "/detergent-powder-product.jpg",

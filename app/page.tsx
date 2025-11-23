@@ -117,6 +117,12 @@ export default function Home() {
                   features: ["Nutrient Rich", "Fresh Harvest", "Pure Quality"],
                 },
                 {
+                  name: "Premium Aata",
+                  desc: "Pure whole wheat flour for healthy and nutritious rotis",
+                  image: "/placeholder.jpg",
+                  features: ["100% Whole Wheat", "Fresh Ground", "High Fiber"],
+                },
+                {
                   name: "Detergent Powder",
                   desc: "Powerful cleaning formula for pristine white clothes",
                   image: "/detergent-powder-product.jpg",
