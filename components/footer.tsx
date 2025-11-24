@@ -5,9 +5,12 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-bold text-primary mb-4">Shreyhit</h3>
+            <h3 className="text-xl font-bold text-primary mb-4">Shreyhit Manufacturer (OPC) Pvt. Ltd.</h3>
+            <p className="text-muted-foreground text-sm leading-relaxed mb-2">
+              ISO 9001:2015 Certified Manufacturer of premium consumer products since 2025.
+            </p>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              ISO 9001 Certified Manufacturer of premium consumer products since 2025.
+              Delivering quality and excellence in every product.
             </p>
           </div>
 
@@ -22,12 +25,32 @@ export function Footer() {
               </li>
               <li>
                 <a href="/about" className="hover:text-primary transition-colors">
-                  About Us
+                  About
+                </a>
+              </li>
+              <li>
+                <a href="/personal" className="hover:text-primary transition-colors">
+                  Personal
                 </a>
               </li>
               <li>
                 <a href="/products" className="hover:text-primary transition-colors">
                   Products
+                </a>
+              </li>
+              <li>
+                <a href="/franchise" className="hover:text-primary transition-colors">
+                  Franchise
+                </a>
+              </li>
+              <li>
+                <a href="/dealership" className="hover:text-primary transition-colors">
+                  Dealership
+                </a>
+              </li>
+              <li>
+                <a href="/contact" className="hover:text-primary transition-colors">
+                  Contact
                 </a>
               </li>
             </ul>
