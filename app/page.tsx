@@ -36,7 +36,7 @@ export default function Home() {
                   <div className="text-center sm:text-left flex-1">
                     <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-1">Prince Srivastava</h2>
                     <p className="text-primary font-semibold text-base sm:text-lg mb-4">Owner & CEO</p>
-                    <h1 className="text-lg sm:text-xl lg:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent leading-tight">
+                    <h1 className="text-lg sm:text-xl lg:text-2xl font-bold text-muted-foreground leading-tight">
                       OUR AIM IS ONLY PROVIDE ORIGINAL PRODUCTS TO OUR CUSTOMERS
                     </h1>
                   </div>

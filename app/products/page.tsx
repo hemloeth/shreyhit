@@ -102,10 +102,10 @@ export default function ProductsPage() {
                   <p className="text-muted-foreground text-sm mb-4">{product.description}</p>
 
                   <div className="mb-4">
-                    <p className="text-primary text-xs font-semibold mb-2">Key Benefits</p>
+                    <p className="text-foreground text-xs font-semibold mb-2">Key Benefits</p>
                     <div className="flex flex-wrap gap-1">
                       {product.benefits.map((benefit, idx) => (
-                        <span key={idx} className="text-primary text-xs px-2 py-1 rounded-full border border-primary/30">
+                        <span key={idx} className="text-foreground text-xs px-2 py-1 rounded-full border border-muted-foreground/30">
                           {benefit}
                         </span>
                       ))}
@@ -114,7 +114,7 @@ export default function ProductsPage() {
 
                   <button 
                     onClick={() => setSelectedProduct(product)}
-                    className="w-full px-4 py-2 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-opacity-90 transition-all transform hover:scale-105 text-sm"
+                    className="w-full px-4 py-2 bg-yellow-500 text-black rounded-lg font-semibold hover:bg-yellow-600 transition-all transform hover:scale-105 text-sm"
                   >
                     View Details
                   </button>
