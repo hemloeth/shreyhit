@@ -21,11 +21,27 @@ export default function Home() {
 
           <div className="relative z-10 w-full max-w-7xl">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8 lg:gap-12 items-center">
-              {/* Left Content */}
+              {/* Left Content - Owner Section */}
               <div className="animate-slideInLeft">
-                <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent mb-4 sm:mb-6 leading-tight">
-                  Premium Quality Products
-                </h1>
+                <div className="flex flex-col sm:flex-row items-center gap-6 mb-8">
+                  <div className="w-32 h-32 sm:w-36 sm:h-36 rounded-full overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 flex-shrink-0">
+                    <Image
+                      src="/owner-prince-srivastava.png"
+                      alt="Prince Srivastava - Owner & CEO"
+                      width={144}
+                      height={144}
+                      className="w-full h-full object-cover"
+                    />
+                  </div>
+                  <div className="text-center sm:text-left flex-1">
+                    <h2 className="text-xl sm:text-2xl font-bold text-foreground mb-1">Prince Srivastava</h2>
+                    <p className="text-primary font-semibold text-base sm:text-lg mb-4">Owner & CEO</p>
+                    <h1 className="text-lg sm:text-xl lg:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent leading-tight">
+                      OUR AIM IS ONLY PROVIDE ORIGINAL PRODUCTS TO OUR CUSTOMERS
+                    </h1>
+                  </div>
+                </div>
+                
                 <p className="text-muted-foreground text-sm sm:text-base lg:text-lg mb-6 sm:mb-8 leading-relaxed">
                   Experience excellence with Shreyhit Manufacturer (OPC) Private Limited. We deliver ISO 9001 certified
                   products that enhance your daily life with superior quality, reliability, and exceptional performance.

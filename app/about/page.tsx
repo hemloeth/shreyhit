@@ -191,6 +191,7 @@ export default function AboutPage() {
                     <li>• Detergent Powder</li>
                     <li>• Scrubber</li>
                     <li>• Sanitary Pads</li>
+                    <li>• Premium Atta</li>
                   </ul>
                 </div>
                 <div className="bg-background border border-border rounded-lg p-4">

@@ -100,7 +100,7 @@ export default function PersonalPage() {
                     alt="Prince Srivastava - Founder, Director & CEO"
                     width={320}
                     height={400}
-                    className="w-full h-auto object-cover"
+                    className="w-full h-80 object-cover"
                   />
                 </div>
               </div>
@@ -139,6 +139,149 @@ export default function PersonalPage() {
                     <p className="text-primary font-semibold text-sm mb-2">📍 Location</p>
                     <p className="text-foreground font-semibold">Balrampur, Uttar Pradesh</p>
                   </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Life Partner Section */}
+          <div className="bg-card border border-border rounded-lg p-8 md:p-12 mb-16 animate-fadeInUp">
+            <h2 className="text-3xl font-bold text-primary mb-8 text-center">The Inspiration Behind Success</h2>
+            <div className="flex flex-col lg:flex-row gap-8 items-start">
+              <div className="w-full lg:w-64 flex-shrink-0 mx-auto lg:mx-0">
+                <div className="rounded-lg overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 hover:shadow-3xl transition-shadow">
+                  <Image
+                    src="/lifepartner.jpg"
+                    alt="Shreya Srivastava - Life Partner"
+                    width={256}
+                    height={320}
+                    className="w-full h-80 object-cover object-top"
+                  />
+                </div>
+              </div>
+
+              <div className="flex-1">
+                <h3 className="text-3xl font-bold text-foreground mb-2">Shreya Srivastava</h3>
+                <p className="text-primary font-semibold text-lg mb-6">Life Partner & Motivational Force</p>
+                
+                <div className="space-y-4 text-muted-foreground">
+                  <p className="text-lg leading-relaxed">
+                    Shreya Srivastava is the driving force and inspiration behind the establishment of Shreyhit Manufacturer. 
+                    Her unwavering support, encouragement, and belief in the vision have been instrumental in turning 
+                    dreams into reality.
+                  </p>
+                  
+                  <p className="leading-relaxed">
+                    As the life partner of Prince Srivastava, Shreya has been the pillar of strength throughout the 
+                    entrepreneurial journey. Her motivation and constant encouragement inspired the opening of this company, 
+                    making her an integral part of Shreyhit's success story. Her positive outlook and dedication continue 
+                    to fuel the company's growth and achievements.
+                  </p>
+
+                  <p className="leading-relaxed">
+                    Behind every successful venture is a supportive partner, and Shreya embodies this role perfectly. 
+                    Her contribution to the company's foundation and ongoing success cannot be overstated.
+                  </p>
+                </div>
+
+                <div className="bg-background border border-border rounded-lg p-4 mt-8">
+                  <p className="text-primary font-semibold text-sm mb-2">💝 Role</p>
+                  <p className="text-foreground font-semibold">Motivational Force & Life Partner</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* CA Profile Section */}
+          <div className="bg-card border border-border rounded-lg p-8 md:p-12 mb-16 animate-fadeInUp">
+            <h2 className="text-3xl font-bold text-primary mb-8 text-center">Our Chartered Accountant</h2>
+            <div className="flex flex-col lg:flex-row gap-8 items-start">
+              <div className="w-full lg:w-64 flex-shrink-0 mx-auto lg:mx-0">
+                <div className="rounded-lg overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 hover:shadow-3xl transition-shadow">
+                  <Image
+                    src="/ca.jpg"
+                    alt="Shiyaram Yadav - Chartered Accountant"
+                    width={256}
+                    height={320}
+                    className="w-full h-80 object-cover object-top"
+                  />
+                </div>
+              </div>
+
+              <div className="flex-1">
+                <h3 className="text-3xl font-bold text-foreground mb-2">Shiyaram Yadav</h3>
+                <p className="text-primary font-semibold text-lg mb-6">Chartered Accountant</p>
+                
+                <div className="space-y-4 text-muted-foreground">
+                  <p className="text-lg leading-relaxed">
+                    Shiyaram Yadav is our trusted Chartered Accountant, bringing 3 years of professional experience 
+                    in financial management, taxation, and compliance. His expertise ensures that Shreyhit Manufacturer 
+                    maintains the highest standards of financial integrity and regulatory compliance.
+                  </p>
+                  
+                  <p className="leading-relaxed">
+                    With a deep understanding of corporate finance and tax regulations, Shiyaram plays a crucial role 
+                    in strategic financial planning and ensuring smooth business operations. His meticulous approach 
+                    to accounting and auditing helps the company maintain transparency and accountability.
+                  </p>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
+                  <div className="bg-background border border-border rounded-lg p-4">
+                    <p className="text-primary font-semibold text-sm mb-2">💼 Experience</p>
+                    <p className="text-foreground font-bold text-lg">3 Years</p>
+                  </div>
+                  <div className="bg-background border border-border rounded-lg p-4">
+                    <p className="text-primary font-semibold text-sm mb-2">🎓 Qualification</p>
+                    <p className="text-foreground font-semibold">Chartered Accountant</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Distributor Profile Section */}
+          <div className="bg-card border border-border rounded-lg p-8 md:p-12 mb-16 animate-fadeInUp">
+            <h2 className="text-3xl font-bold text-primary mb-8 text-center">Our Trusted Distributor</h2>
+            <div className="flex flex-col lg:flex-row gap-8 items-start">
+              <div className="w-full lg:w-64 flex-shrink-0 mx-auto lg:mx-0">
+                <div className="rounded-lg overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 hover:shadow-3xl transition-shadow">
+                  <Image
+                    src="/distributor.jpg"
+                    alt="Vinay Sharma - Distributor"
+                    width={256}
+                    height={320}
+                    className="w-full h-80 object-cover"
+                  />
+                </div>
+              </div>
+
+              <div className="flex-1">
+                <h3 className="text-3xl font-bold text-foreground mb-2">Vinay Sharma</h3>
+                <p className="text-primary font-semibold text-lg mb-6">Authorized Distributor</p>
+                
+                <div className="space-y-4 text-muted-foreground">
+                  <p className="text-lg leading-relaxed">
+                    Vinay Sharma is one of our key distributors, playing a vital role in expanding Shreyhit's reach 
+                    across the market. His dedication to delivering quality products and maintaining strong customer 
+                    relationships has made him an invaluable partner in our distribution network.
+                  </p>
+                  
+                  <p className="leading-relaxed">
+                    With his extensive market knowledge and commitment to excellence, Vinay ensures that Shreyhit 
+                    products reach customers efficiently and effectively. His entrepreneurial spirit and business 
+                    acumen have contributed significantly to the company's growth and market presence.
+                  </p>
+
+                  <p className="leading-relaxed">
+                    As a trusted distributor, Vinay exemplifies the kind of partnership that Shreyhit values - 
+                    one built on mutual trust, quality service, and shared success.
+                  </p>
+                </div>
+
+                <div className="bg-background border border-border rounded-lg p-4 mt-8">
+                  <p className="text-primary font-semibold text-sm mb-2">🤝 Role</p>
+                  <p className="text-foreground font-semibold">Authorized Distributor</p>
                 </div>
               </div>
             </div>

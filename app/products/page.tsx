@@ -1,5 +1,6 @@
 "use client"
 
+import { useState } from "react"
 import { Navigation } from "@/components/navigation"
 import { Footer } from "@/components/footer"
 import Image from "next/image"
@@ -57,6 +58,8 @@ const products = [
 ]
 
 export default function ProductsPage() {
+  const [selectedProduct, setSelectedProduct] = useState<typeof products[0] | null>(null)
+
   return (
     <>
       <Navigation />
@@ -102,14 +105,17 @@ export default function ProductsPage() {
                     <p className="text-primary text-xs font-semibold mb-2">Key Benefits</p>
                     <div className="flex flex-wrap gap-1">
                       {product.benefits.map((benefit, idx) => (
-                        <span key={idx} className="bg-primary/20 text-primary text-xs px-2 py-1 rounded-full">
+                        <span key={idx} className="text-primary text-xs px-2 py-1 rounded-full border border-primary/30">
                           {benefit}
                         </span>
                       ))}
                     </div>
                   </div>
 
-                  <button className="w-full px-4 py-2 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-opacity-90 transition-all transform hover:scale-105 text-sm">
+                  <button 
+                    onClick={() => setSelectedProduct(product)}
+                    className="w-full px-4 py-2 bg-primary text-primary-foreground rounded-lg font-semibold hover:bg-opacity-90 transition-all transform hover:scale-105 text-sm"
+                  >
                     View Details
                   </button>
                 </div>
@@ -209,12 +215,99 @@ export default function ProductsPage() {
                 <li className="flex items-center gap-2">
                   <span className="text-primary">•</span> Premium Dry Fruits
                 </li>
+                 <li className="flex items-center gap-2">
+                  <span className="text-primary">•</span> Premium Atta
+                </li>
               </ul>
             </div>
           </div>
         </div>
       </main>
       <Footer />
+
+      {/* Product Details Modal */}
+      {selectedProduct && (
+        <div 
+          className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 flex items-center justify-center p-4 animate-fadeIn"
+          onClick={() => setSelectedProduct(null)}
+        >
+          <div 
+            className="bg-card border border-border rounded-lg max-w-3xl w-full max-h-[90vh] overflow-y-auto shadow-2xl animate-scaleIn"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* Modal Header */}
+            <div className="sticky top-0 bg-card border-b border-border p-6 flex items-center justify-between z-10">
+              <h2 className="text-2xl font-bold text-primary">{selectedProduct.name}</h2>
+              <button
+                onClick={() => setSelectedProduct(null)}
+                className="text-muted-foreground hover:text-foreground transition-colors text-2xl font-bold w-8 h-8 flex items-center justify-center rounded-full hover:bg-background"
+              >
+                ×
+              </button>
+            </div>
+
+            {/* Modal Content */}
+            <div className="p-6">
+              {/* Product Image */}
+              <div className="relative h-80 bg-gradient-to-br from-primary/20 to-accent/20 rounded-lg overflow-hidden mb-6">
+                <Image
+                  src={selectedProduct.image || "/placeholder.svg"}
+                  alt={selectedProduct.name}
+                  width={800}
+                  height={600}
+                  className="w-full h-full object-cover"
+                />
+                <div className="absolute top-4 right-4 bg-primary/90 text-primary-foreground px-4 py-2 rounded-full text-sm font-semibold">
+                  {selectedProduct.category}
+                </div>
+              </div>
+
+              {/* Product Description */}
+              <div className="mb-6">
+                <h3 className="text-xl font-bold text-foreground mb-3">Product Description</h3>
+                <p className="text-muted-foreground leading-relaxed">{selectedProduct.description}</p>
+              </div>
+
+              {/* Key Benefits */}
+              <div className="mb-6">
+                <h3 className="text-xl font-bold text-foreground mb-3">Key Benefits</h3>
+                <div className="grid grid-cols-2 gap-3">
+                  {selectedProduct.benefits.map((benefit, idx) => (
+                    <div key={idx} className="bg-background border border-border rounded-lg p-3 flex items-center gap-2">
+                      <span className="text-primary font-bold">✓</span>
+                      <span className="text-foreground text-sm font-medium">{benefit}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Quality Assurance */}
+              <div className="bg-gradient-to-r from-primary/10 to-accent/10 border border-primary/30 rounded-lg p-6 mb-6">
+                <h3 className="text-lg font-bold text-primary mb-3">Quality Assurance</h3>
+                <ul className="space-y-2 text-muted-foreground text-sm">
+                  <li className="flex items-center gap-2">
+                    <span className="text-primary">✓</span>
+                    ISO 9001:2015 Certified Manufacturing
+                  </li>
+                  <li className="flex items-center gap-2">
+                    <span className="text-primary">✓</span>
+                    Rigorous Quality Control Standards
+                  </li>
+                  <li className="flex items-center gap-2">
+                    <span className="text-primary">✓</span>
+                    Premium Raw Materials
+                  </li>
+                  <li className="flex items-center gap-2">
+                    <span className="text-primary">✓</span>
+                    Customer Satisfaction Guaranteed
+                  </li>
+                </ul>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      )}
     </>
   )
 }

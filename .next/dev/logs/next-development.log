@@ -1,565 +1,175 @@
-[00:00:00.689] Server  LOG      ✓ Ready in 474ms
-[00:00:07.126] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:07.309] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:07.310] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:07.311] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763790684135}
-[00:04:14.510] Server  LOG      ✓ Compiled in 126ms
-[00:04:20.517] Server  LOG      ✓ Compiled in 63ms
-[00:04:40.190] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763790957022}
-[00:04:52.456] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763790969290}
-[00:05:29.774] Server  LOG      ✓ Compiled in 30ms
-[00:05:29.869] Browser ERROR   uncaughtError: ReferenceError: franchiseSubmitted is not defined
-[00:05:30.079] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:05:30.081] Server  LOG      ✓ Compiled in 31ms
-[00:05:30.355] Server  ERROR    ⨯ ReferenceError: franchiseSubmitted is not defined
-[00:05:30.365] Browser ERROR   uncaughtError: ReferenceError: franchiseSubmitted is not defined
-[00:05:30.603] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:30.735] Browser ERROR   uncaughtError: ReferenceError: franchiseSubmitted is not defined
-[00:06:00.817] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:06:00.858] Server  LOG      ✓ Compiled in 95ms
-[00:06:01.071] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/%5Broot-of-the-server%5D__bf1ab602._.css
-[00:06:01.295] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:01.422] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:06:01.422] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
-[00:06:01.422] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763791038255}
-[00:06:23.429] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763791060259}
-[00:06:30.958] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:31.073] Browser WARN    Image with src "/toothbrush-product.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:06:31.073] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:06:31.073] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products","route":"/products"}
-[00:06:31.073] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763791067899}
-[00:06:42.029] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763791078861}
-[00:06:53.603] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763791090431}
-[00:09:55.771] Server  LOG      ✓ Compiled in 82ms
-[00:10:07.706] Server  LOG      ✓ Compiled in 0ms
-[00:10:08.011] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:10:08.165] Browser WARN    Image with src "/company-banner.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:10:08.165] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:10:08.165] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dealership","route":"/dealership"}
-[00:10:08.165] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763791284992}
-[00:12:14.076] Server  LOG      ✓ Compiled in 92ms
-[00:13:31.548] Server  LOG      ✓ Compiled in 141ms
-[00:38:36.205] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:38:37.070] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:38:37.070] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products/pla-containers","route":"/products/pla-containers"}
-[00:38:37.070] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products/pla-containers color: rgb(120, 120, 120) color: inherit {"dp":"/products/pla-containers","o":"http://localhost:3000/products/pla-containers","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763792993374}
-[06:52:28.942] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815424938}
-[06:52:38.612] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815434608}
-[06:54:10.519] Server  LOG      ✓ Compiled in 190ms
-[06:54:10.525] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[06:54:10.530] Browser ERROR   uncaughtError: ReferenceError: menuItems is not defined
-[06:54:10.789] Server  ERROR    ⨯ ReferenceError: menuItems is not defined
-[06:54:10.807] Browser ERROR   uncaughtError: ReferenceError: menuItems is not defined
-[06:54:11.497] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:54:11.676] Browser ERROR   uncaughtError: ReferenceError: menuItems is not defined
-[06:54:13.678] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[06:54:13.680] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[06:54:13.687] Server  LOG      ✓ Compiled in 31ms
-[06:54:14.197] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:54:14.386] Browser WARN    Image with src "/company-banner.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[06:54:14.386] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[06:54:14.387] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dealership","route":"/dealership"}
-[06:54:14.387] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815530378}
-[06:56:13.053] Server  LOG      ✓ Compiled in 31ms
-[06:56:19.103] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:56:19.236] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[06:56:19.236] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products/pla-containers","route":"/products/pla-containers"}
-[06:56:19.236] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products/pla-containers color: rgb(120, 120, 120) color: inherit {"dp":"/products/pla-containers","o":"http://localhost:3000/products/pla-containers","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815655226}
-[06:57:09.555] Server  LOG      ✓ Compiled in 88ms
-[06:57:13.593] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815709580}
-[06:57:23.666] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815719652}
-[06:57:38.250] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815734237}
-[06:58:08.742] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815764728}
-[06:58:11.041] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815767027}
-[06:58:12.345] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815768331}
-[06:58:18.730] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815774716}
-[06:59:20.318] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[06:59:20.427] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[06:59:20.427] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products/pla-containers","route":"/products/pla-containers"}
-[06:59:20.427] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products/pla-containers color: rgb(120, 120, 120) color: inherit {"dp":"/products/pla-containers","o":"http://localhost:3000/products/pla-containers","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815836412}
-[06:59:51.773] Server  LOG      ✓ Compiled in 134ms
-[06:59:52.421] Server  LOG      ✓ Compiled in 91ms
-[06:59:59.800] Server  LOG      ✓ Compiled in 68ms
-[07:00:02.712] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815878694}
-[07:00:04.986] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815880968}
-[07:00:06.505] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815882487}
-[07:00:16.044] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815892025}
-[07:00:27.656] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815903638}
-[07:00:30.133] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815906115}
-[07:00:31.750] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815907732}
-[07:00:35.602] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815911584}
-[07:00:50.875] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815926855}
-[07:00:55.287] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763815931268}
-[07:14:34.957] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763816750926}
-[07:16:56.674] Server  LOG      ✓ Compiled in 242ms
-[07:16:56.778] Browser ERROR   ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx:297:11
-Parsing ecmascript source code failed
-  295 |             </p>
-  296 |           </div>
-> 297 |         </div>
-      |           ^^^
-  298 |       </main>
-  299 |       <Footer />
-  300 |     </>
-
-Expected '</', got 'div'
-
-Import traces:
-  Client Component Browser:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Client Component Browser]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Client Component SSR]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Server Component]
-[07:16:56.822] Browser ERROR   ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx:297:11
-Parsing ecmascript source code failed
-  295 |             </p>
-  296 |           </div>
-> 297 |         </div>
-      |           ^^^
-  298 |       </main>
-  299 |       <Footer />
-  300 |     </>
-
-Expected '</', got 'div'
-
-Import traces:
-  Client Component Browser:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Client Component Browser]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Client Component SSR]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Server Component]
-[07:17:03.539] Browser ERROR   ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx:297:11
-Parsing ecmascript source code failed
-  295 |             </p>
-  296 |           </div>
-> 297 |         </div>
-      |           ^^^
-  298 |       </main>
-  299 |       <Footer />
-  300 |     </>
-
-Expected '</', got 'div'
-
-Import traces:
-  Client Component Browser:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Client Component Browser]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Client Component SSR]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Server Component]
-[07:17:03.540] Browser ERROR   ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx:297:11
-Parsing ecmascript source code failed
-  295 |             </p>
-  296 |           </div>
-> 297 |         </div>
-      |           ^^^
-  298 |       </main>
-  299 |       <Footer />
-  300 |     </>
-
-Expected '</', got 'div'
-
-Import traces:
-  Client Component Browser:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Client Component Browser]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Client Component SSR]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/personal/page.tsx [Server Component]
-[07:17:03.875] Server  LOG      ✓ Compiled in 188ms
-[07:17:05.112] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[07:17:05.225] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[07:17:05.225] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products/pla-containers","route":"/products/pla-containers"}
-[07:17:05.225] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products/pla-containers color: rgb(120, 120, 120) color: inherit {"dp":"/products/pla-containers","o":"http://localhost:3000/products/pla-containers","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763816901191}
-[07:17:48.733] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[07:17:48.886] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[07:17:48.886] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/personal","route":"/personal"}
-[07:17:48.886] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763816944828}
-[07:17:54.665] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763816950602}
-[07:18:03.706] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763816959640}
-[07:18:06.288] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763816962221}
-[07:18:14.052] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763816969983}
-[07:20:05.306] Server  LOG      ✓ Compiled in 68ms
-[07:20:07.521] Server  LOG      ✓ Compiled in 20ms
-[07:26:26.447] Server  LOG      ✓ Compiled in 165ms
-[07:26:39.226] Server  LOG      ✓ Compiled in 106ms
-[07:27:05.540] Server  LOG      ✓ Compiled in 93ms
-[07:27:13.286] Server  LOG      ✓ Compiled in 54ms
-[07:27:19.282] Server  LOG      ✓ Compiled in 176ms
-[07:27:22.235] Server  LOG      ✓ Compiled in 40ms
-[07:27:42.645] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[07:27:42.798] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[07:27:42.798] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[07:27:42.798] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763817538709}
-[07:27:44.810] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[07:27:44.934] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[07:27:44.934] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[07:27:44.934] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763817540845}
-[07:27:50.683] Server  LOG      ✓ Compiled in 97ms
-[07:28:37.419] Server  LOG      ✓ Compiled in 163ms
-[07:28:50.648] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.775] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.786] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.806] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.814] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.832] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.845] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.863] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.890] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.908] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.930] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.944] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.962] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.978] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:50.994] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:51.006] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:51.106] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:28:51.333] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[07:28:51.444] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[07:28:51.444] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products/pla-containers","route":"/products/pla-containers"}
-[07:28:51.444] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products/pla-containers color: rgb(120, 120, 120) color: inherit {"dp":"/products/pla-containers","o":"http://localhost:3000/products/pla-containers","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763817607352}
-[07:31:54.698] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:34:50.136] Server  LOG      ✓ Compiled in 192ms
-[07:36:02.599] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:36:03.444] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[07:36:03.902] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[07:36:03.902] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[07:36:03.902] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763818039797}
-[07:36:10.364] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:36:10.541] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763818046433}
-[07:41:48.114] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:41:48.282] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763818384164}
-[07:42:31.830] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[07:42:32.320] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[07:42:32.524] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[07:42:32.524] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[07:42:32.524] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763818428396}
-[22:48:24.499] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[22:48:25.192] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[22:48:25.477] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[22:48:25.478] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[22:48:25.478] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763872779500}
-[22:48:37.169] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[22:48:37.364] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763872791392}
-[22:51:07.821] Server  LOG      ✓ Compiled in 87ms
-[22:53:53.565] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[22:53:53.711] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873107723}
-[22:54:49.794] Server  LOG      ✓ Compiled in 112ms
-[22:55:38.060] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[22:55:38.198] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873212205}
-[22:57:29.477] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[22:57:29.646] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873323641}
-[22:57:38.771] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[22:57:38.941] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873332942}
-[22:57:40.971] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /franchise. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[22:57:41.195] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873335197}
-[22:58:50.681] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[22:58:50.826] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873404826}
-[23:01:00.052] Server  LOG      ✓ Compiled in 139ms
-[23:01:00.274] Browser ERROR   ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx:76:18
-Parsing ecmascript source code failed
-  74 |                   fill
-  75 |                   className="object-contain rounded-lg"
-> 76 |                 />
-     |                  ^
-  77 |               </div>
-  78 |             </div>
-  79 |           </div>
-
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-
-Import traces:
-  Client Component Browser:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Client Component Browser]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Client Component SSR]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Server Component]
-[23:01:00.300] Browser ERROR   ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx:76:18
-Parsing ecmascript source code failed
-  74 |                   fill
-  75 |                   className="object-contain rounded-lg"
-> 76 |                 />
-     |                  ^
-  77 |               </div>
-  78 |             </div>
-  79 |           </div>
-
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-
-Import traces:
-  Client Component Browser:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Client Component Browser]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Client Component SSR]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Server Component]
-[23:01:00.696] Browser ERROR   ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx:76:18
-Parsing ecmascript source code failed
-  74 |                   fill
-  75 |                   className="object-contain rounded-lg"
-> 76 |                 />
-     |                  ^
-  77 |               </div>
-  78 |             </div>
-  79 |           </div>
-
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-
-Import traces:
-  Client Component Browser:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Client Component Browser]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Client Component SSR]
-    ./Downloads/v0-shreyhit-website-design-main 2/app/dealership/page.tsx [Server Component]
-[23:01:04.687] Server  LOG      ✓ Compiled in 286ms
-[23:01:04.777] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:01:04.928] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:01:04.989] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:01:05.643] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:01:06.032] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[23:01:06.162] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[23:01:06.162] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products/pla-containers","route":"/products/pla-containers"}
-[23:01:06.162] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products/pla-containers color: rgb(120, 120, 120) color: inherit {"dp":"/products/pla-containers","o":"http://localhost:3000/products/pla-containers","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873540186}
-[23:01:50.711] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:01:50.853] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873584878}
-[23:01:55.807] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:01:55.947] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873589972}
-[23:02:15.109] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:02:15.260] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873609283}
-[23:02:21.648] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:02:21.777] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873615801}
-[23:02:26.083] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:02:26.210] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873620233}
-[23:02:30.010] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:02:30.145] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873624169}
-[23:03:03.556] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:03:03.700] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763873657722}
-[23:04:10.703] Server  LOG      ✓ Compiled in 120ms
-[23:04:18.522] Server  LOG      ✓ Compiled in 166ms
-[23:04:25.140] Server  LOG      ✓ Compiled in 58ms
-[23:08:58.148] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:08:58.295] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874012302}
-[23:09:01.905] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:02.040] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874016047}
-[23:09:03.423] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /franchise. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:03.555] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874017563}
-[23:09:09.389] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:09.519] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874023525}
-[23:09:14.216] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:14.335] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874028343}
-[23:09:20.634] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:20.763] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874034770}
-[23:09:26.951] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /franchise. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:27.077] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874041082}
-[23:09:32.424] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:32.553] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874046560}
-[23:09:37.014] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:37.139] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874051146}
-[23:09:40.689] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:40.821] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874054827}
-[23:09:46.097] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:09:46.235] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874060241}
-[23:11:14.313] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:11:14.452] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874148455}
-[23:11:52.796] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:11:52.952] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874186936}
-[23:14:03.561] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:14:03.688] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874317685}
-[23:14:06.646] Server  LOG      ✓ Compiled in 151ms
-[23:14:09.509] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:14:09.646] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874323641}
-[23:14:18.852] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:14:18.983] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874332978}
-[23:14:25.849] Server  LOG      ✓ Compiled in 80ms
-[23:18:32.987] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:18:33.954] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[23:18:34.103] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[23:18:34.104] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products","route":"/products"}
-[23:18:34.104] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874588117}
-[23:18:34.877] Server  LOG      ✓ Compiled in 238ms
-[23:18:34.933] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:18:36.334] Server  LOG      ✓ Compiled in 165ms
-[23:18:36.509] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:19:06.356] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:19:06.539] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874620546}
-[23:19:06.580] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:19:46.768] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:19:47.190] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:19:47.239] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[23:19:47.372] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[23:19:47.372] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[23:19:47.372] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874661384}
-[23:19:57.317] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:19:57.422] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:19:57.481] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874671492}
-[23:21:20.102] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:21:20.559] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[23:21:20.694] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[23:21:20.694] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products","route":"/products"}
-[23:21:20.694] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874754704}
-[23:21:23.798] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:21:23.966] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874757975}
-[23:21:42.152] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:22:04.156] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:22:04.330] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874798337}
-[23:22:15.357] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:22:15.497] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874809504}
-[23:23:13.386] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:23:13.576] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874867577}
-[23:23:15.391] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:23:15.531] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874869536}
-[23:23:17.277] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:23:17.425] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874871430}
-[23:23:45.951] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:23:46.486] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[23:23:46.640] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[23:23:46.640] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/contact","route":"/contact"}
-[23:23:46.640] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874900645}
-[23:23:51.267] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:23:51.416] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874905418}
-[23:23:53.028] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:23:53.175] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874907179}
-[23:23:58.131] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:23:58.265] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874912269}
-[23:23:59.823] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:23:59.968] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874913970}
-[23:24:01.932] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /franchise. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:24:02.093] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874916097}
-[23:24:03.194] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:24:03.325] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874917328}
-[23:24:53.470] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:24:53.604] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874967605}
-[23:24:56.358] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:24:56.489] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874970489}
-[23:24:57.294] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:24:57.411] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874971413}
-[23:24:58.220] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:24:58.363] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874972364}
-[23:24:59.018] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /franchise. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:24:59.151] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874973153}
-[23:24:59.782] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:24:59.918] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874973917}
-[23:25:00.515] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:25:00.636] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874974637}
-[23:25:02.275] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:25:02.400] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874976401}
-[23:25:03.363] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /franchise. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:25:03.492] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874977493}
-[23:25:04.109] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:25:04.245] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874978246}
-[23:25:05.431] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:25:05.552] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874979553}
-[23:25:06.163] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:25:06.283] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874980284}
-[23:25:06.929] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[23:25:07.058] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763874981059}
-[23:25:09.077] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:00.837] Server  LOG      ✓ Ready in 548ms
+[00:00:08.245] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:09.017] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:09.017] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:09.017] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967885918}
+[00:00:36.651] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:36.902] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:00:36.903] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967913795}
+[00:00:46.701] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:46.878] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967923779}
+[00:00:48.547] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:48.716] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967925616}
+[00:00:52.438] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /franchise. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:52.623] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967929522}
+[00:00:55.782] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:55.964] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967932857}
+[00:00:59.532] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /contact. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:00:59.708] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/contact color: rgb(120, 120, 120) color: inherit {"dp":"/contact","o":"http://localhost:3000/contact","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967936608}
+[00:01:01.106] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:01.250] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967938145}
+[00:01:24.407] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:24.579] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763967961478}
+[00:02:07.345] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:02:07.482] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763968004384}
+[00:06:21.655] Server  LOG      ✓ Compiled in 147ms
+[00:09:07.226] Server  LOG      ✓ Compiled in 43ms
+[00:11:53.092] Server  LOG      ✓ Compiled in 109ms
+[00:13:23.238] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:13:23.791] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:13:23.791] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/personal","route":"/personal"}
+[00:13:23.791] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763968680684}
+[00:14:19.317] Server  LOG      ✓ Compiled in 151ms
+[00:14:21.576] Server  LOG      ✓ Compiled in 86ms
+[00:14:24.184] Server  LOG      ✓ Compiled in 111ms
+[00:15:00.309] Server  LOG      ✓ Compiled in 46ms
+[00:15:18.077] Server  LOG      ✓ Compiled in 36ms
+[00:15:21.125] Server  LOG      ✓ Compiled in 67ms
+[00:15:29.933] Server  LOG      ✓ Compiled in 35ms
+[00:15:48.454] Server  LOG      ✓ Compiled in 34ms
+[00:16:01.875] Server  LOG      ✓ Compiled in 48ms
+[00:16:35.727] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:35.918] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:16:35.918] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763968872817}
+[00:17:01.246] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:01.413] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763968898308}
+[00:21:33.046] Server  LOG      ✓ Compiled in 154ms
+[00:21:44.598] Server  LOG      ✓ Compiled in 202ms
+[00:22:20.633] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:22:20.826] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969217723}
+[00:23:15.451] Server  LOG      ✓ Compiled in 51ms
+[00:25:08.425] Server  LOG      ✓ Compiled in 43ms
+[00:27:09.277] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:27:09.422] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969506318}
+[00:27:10.522] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /personal. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:27:10.667] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/personal color: rgb(120, 120, 120) color: inherit {"dp":"/personal","o":"http://localhost:3000/personal","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969507560}
+[00:27:11.699] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:27:11.833] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969508725}
+[00:27:21.112] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:27:21.251] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969518149}
+[00:29:40.661] Server  LOG      ✓ Compiled in 108ms
+[00:30:17.470] Server  LOG      ✓ Compiled in 107ms
+[00:31:00.013] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:31:00.160] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969737059}
+[00:32:43.415] Server  LOG      ✓ Compiled in 33ms
+[00:32:50.666] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[root-of-the-server]__8d65f657._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.670] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.694] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\node_modules_next_dist_cdc6d915._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.759] Server  ERROR   E:\shreyhit\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.760] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.765] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.767] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.769] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.769] Server  ERROR   E:\shreyhit\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.771] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.772] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.777] Server  ERROR    ⨯ ReferenceError: tta is not defined
+[00:32:50.780] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[root-of-the-server]__8d65f657._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.781] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.781] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\node_modules_next_dist_cdc6d915._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.783] Server  ERROR   E:\shreyhit\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.783] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.825] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.827] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.831] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.832] Server  ERROR   E:\shreyhit\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.832] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.833] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.834] Server  ERROR    ⨯ ReferenceError: tta is not defined
+[00:32:50.882] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[root-of-the-server]__8d65f657._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.884] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.884] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\node_modules_next_dist_cdc6d915._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.892] Server  ERROR   E:\shreyhit\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.895] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.899] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.902] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.907] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.909] Server  ERROR   E:\shreyhit\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.911] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.912] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.923] Server  ERROR    ⨯ ReferenceError: tta is not defined
+[00:32:50.930] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[root-of-the-server]__8d65f657._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.933] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.942] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\node_modules_next_dist_cdc6d915._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.965] Server  ERROR   E:\shreyhit\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.967] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.968] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.968] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.969] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.971] Server  ERROR   E:\shreyhit\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.972] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.972] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:50.973] Server  ERROR    ⨯ ReferenceError: tta is not defined
+[00:32:51.757] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[root-of-the-server]__8d65f657._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.759] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.760] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\node_modules_next_dist_cdc6d915._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.762] Server  ERROR   E:\shreyhit\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.762] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.764] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.765] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.766] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.768] Server  ERROR   E:\shreyhit\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.770] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.771] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.773] Server  ERROR    ⨯ ReferenceError: tta is not defined
+[00:32:51.776] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[root-of-the-server]__8d65f657._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.776] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\[turbopack]_runtime.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.777] Server  ERROR   E:\shreyhit\.next\dev\server\chunks\ssr\node_modules_next_dist_cdc6d915._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.779] Server  ERROR   E:\shreyhit\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.781] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\trace\tracer.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.782] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.783] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.783] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.785] Server  ERROR   E:\shreyhit\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.793] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.794] Server  ERROR   E:\shreyhit\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:32:51.795] Server  ERROR    ⨯ ReferenceError: tta is not defined
+[00:32:51.970] Browser ERROR   uncaughtError: ReferenceError: tta is not defined
+[00:32:53.949] Server  LOG      ✓ Compiled in 288ms
+[00:33:11.453] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /products. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:33:12.040] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:33:12.040] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products","route":"/products"}
+[00:33:12.040] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969868943}
+[00:33:23.163] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /franchise. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:33:23.342] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:33:23.342] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/franchise color: rgb(120, 120, 120) color: inherit {"dp":"/franchise","o":"http://localhost:3000/franchise","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969880245}
+[00:33:30.149] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /dealership. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:33:30.316] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dealership color: rgb(120, 120, 120) color: inherit {"dp":"/dealership","o":"http://localhost:3000/dealership","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969887210}
+[00:33:36.498] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /about. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:33:36.649] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763969893546}
+[00:34:05.490] Server  LOG      ✓ Compiled in 32ms
+[00:34:09.143] Server  LOG      ✓ Compiled in 34ms
+[00:34:15.759] Server  LOG      ✓ Compiled in 26ms

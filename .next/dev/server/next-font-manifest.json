@@ -1,34 +1,30 @@
 {
   "app": {
-    "[project]/Downloads/v0-shreyhit-website-design-main 2/app/_not-found/page": [
+    "[project]/app/about/page": [
       "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
       "static/media/797e433ab948586e-s.p.dbea232f.woff2"
     ],
-    "[project]/Downloads/v0-shreyhit-website-design-main 2/app/about/page": [
+    "[project]/app/contact/page": [
       "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
       "static/media/797e433ab948586e-s.p.dbea232f.woff2"
     ],
-    "[project]/Downloads/v0-shreyhit-website-design-main 2/app/contact/page": [
+    "[project]/app/dealership/page": [
       "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
       "static/media/797e433ab948586e-s.p.dbea232f.woff2"
     ],
-    "[project]/Downloads/v0-shreyhit-website-design-main 2/app/dealership/page": [
+    "[project]/app/franchise/page": [
       "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
       "static/media/797e433ab948586e-s.p.dbea232f.woff2"
     ],
-    "[project]/Downloads/v0-shreyhit-website-design-main 2/app/franchise/page": [
+    "[project]/app/page": [
       "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
       "static/media/797e433ab948586e-s.p.dbea232f.woff2"
     ],
-    "[project]/Downloads/v0-shreyhit-website-design-main 2/app/page": [
+    "[project]/app/personal/page": [
       "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
       "static/media/797e433ab948586e-s.p.dbea232f.woff2"
     ],
-    "[project]/Downloads/v0-shreyhit-website-design-main 2/app/personal/page": [
-      "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
-      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
-    ],
-    "[project]/Downloads/v0-shreyhit-website-design-main 2/app/products/page": [
+    "[project]/app/products/page": [
       "static/media/caa3a2e1cccd8315-s.p.853070df.woff2",
       "static/media/797e433ab948586e-s.p.dbea232f.woff2"
     ]
