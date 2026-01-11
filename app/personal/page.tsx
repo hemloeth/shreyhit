@@ -113,7 +113,7 @@ export default function PersonalPage() {
                   <p className="text-lg leading-relaxed">
                     Prince Srivastava is the visionary entrepreneur behind Shreyhit Manufacturer (OPC) Private Limited. 
                     With a passion for quality and innovation, he founded the company with a mission to deliver premium 
-                    consumer products that meet international standards.
+                    consumer products that meet international standards.  
                   </p>
                   
                   <p className="leading-relaxed">
@@ -144,7 +144,7 @@ export default function PersonalPage() {
             </div>
           </div>
 
-          {/* Life Partner Section */}
+          {/* Life Partner Sections */}
           <div className="bg-card border border-border rounded-lg p-8 md:p-12 mb-16 animate-fadeInUp">
             <h2 className="text-3xl font-bold text-primary mb-8 text-center">The Inspiration Behind Success</h2>
             <div className="flex flex-col lg:flex-row gap-8 items-start">
