@@ -106,7 +106,7 @@ export default function AboutPage() {
                     alt="Prince Srivastava - Founder, Director & CEO"
                     width={224}
                     height={280}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover object-top"
                   />
                 </div>
               </div>

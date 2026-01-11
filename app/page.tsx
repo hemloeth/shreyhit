@@ -24,13 +24,13 @@ export default function Home() {
               {/* Left Content - Owner Section */}
               <div className="animate-slideInLeft">
                 <div className="flex flex-col sm:flex-row items-center gap-6 mb-8">
-                  <div className="w-32 h-32 sm:w-36 sm:h-36 rounded-full overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 flex-shrink-0">
+                  <div className="w-40 h-40 sm:w-36 sm:h-36 rounded-full overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 flex-shrink-0">
                     <Image
                       src="/owner-prince-srivastava.png"
                       alt="Prince Srivastava - Owner & CEO"
-                      width={144}
-                      height={144}
-                      className="w-full h-full object-cover"
+                      width={160}
+                      height={160}
+                      className="w-full h-full object-cover object-center object-top"
                     />
                   </div>
                   <div className="text-center sm:text-left flex-1">
@@ -203,7 +203,7 @@ export default function Home() {
         {/* Trust & Certification Section */}
         <section className="py-12 sm:py-20 px-4 sm:px-6 bg-card/50 relative">
           <div className="max-w-6xl mx-auto">
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 lg:gap-8">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6 lg:gap-8">
               {[
                 {
                   label: "ISO 9001 Certified",
@@ -216,21 +216,40 @@ export default function Home() {
                   desc: "Diverse range of consumer essentials",
                 },
                 {
-                  label: "Expert Leadership",
+                  label: "Owner & CEO",
                   value: "Prince Srivastava",
-                  desc: "Founder & Owner - 5+ years experience",
+                  desc: "+91 63913 91576",
+                },
+                {
+                  label: "Manager",
+                  value: "Ravi Kumar",
+                  desc: "+91 8808612617",
                 },
               ].map((stat, i) => (
                 <div
                   key={i}
-                  className="text-center p-8 rounded-lg border border-border hover:border-primary/50 transition-all animate-fadeInUp"
+                  className="text-center p-6 rounded-lg border border-border hover:border-primary/50 transition-all animate-fadeInUp"
                   style={{ animationDelay: `${i * 0.15}s` }}
                 >
                   <div className="text-accent text-sm font-semibold mb-2">{stat.label}</div>
-                  <div className="text-4xl font-bold text-primary mb-3">{stat.value}</div>
+                  <div className="text-2xl sm:text-3xl font-bold text-primary mb-3">{stat.value}</div>
                   <p className="text-muted-foreground text-sm">{stat.desc}</p>
                 </div>
               ))}
+            </div>
+            
+            {/* Additional Team Members */}
+            <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-2xl mx-auto">
+              <div className="text-center p-6 rounded-lg border border-border hover:border-primary/50 transition-all animate-fadeInUp">
+                <div className="text-accent text-sm font-semibold mb-2">Distributor</div>
+                <div className="text-2xl sm:text-3xl font-bold text-primary mb-3">Vinay Sharma</div>
+                <p className="text-muted-foreground text-sm">+91 98380 31077</p>
+              </div>
+              <div className="text-center p-6 rounded-lg border border-border hover:border-primary/50 transition-all animate-fadeInUp">
+                <div className="text-accent text-sm font-semibold mb-2">Chartered Accountant</div>
+                <div className="text-2xl sm:text-3xl font-bold text-primary mb-3">Shiyaram Yadav</div>
+                <p className="text-muted-foreground text-sm">3+ Years Experience</p>
+              </div>
             </div>
           </div>
         </section>

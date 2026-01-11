@@ -73,7 +73,18 @@ export function Footer() {
         </div>
 
         <div className="border-t border-border pt-8 text-center text-muted-foreground text-sm">
-          <p>&copy; 2025 Shreyhit Manufacturer (OPC) Private Limited. All rights reserved.</p>
+          <p className="mb-2">&copy; 2025 Shreyhit Manufacturer (OPC) Private Limited. All rights reserved.</p>
+          <p className="text-xs">
+            Made with ❤️ by{" "}
+            <a 
+              href="https://www.fyncinnovation.com/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-primary hover:text-accent transition-colors font-semibold"
+            >
+              FYNC INNOVATION PVT LTD
+            </a>
+          </p>
         </div>
       </div>
     </footer>

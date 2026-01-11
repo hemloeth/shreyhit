@@ -100,7 +100,7 @@ export default function PersonalPage() {
                     alt="Prince Srivastava - Founder, Director & CEO"
                     width={320}
                     height={400}
-                    className="w-full h-80 object-cover"
+                    className="w-full h-80 object-cover object-top"
                   />
                 </div>
               </div>
@@ -279,9 +279,68 @@ export default function PersonalPage() {
                   </p>
                 </div>
 
-                <div className="bg-background border border-border rounded-lg p-4 mt-8">
-                  <p className="text-primary font-semibold text-sm mb-2">🤝 Role</p>
-                  <p className="text-foreground font-semibold">Authorized Distributor</p>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
+                  <div className="bg-background border border-border rounded-lg p-4">
+                    <p className="text-primary font-semibold text-sm mb-2">🤝 Role</p>
+                    <p className="text-foreground font-semibold">Authorized Distributor</p>
+                  </div>
+                  <div className="bg-background border border-border rounded-lg p-4">
+                    <p className="text-primary font-semibold text-sm mb-2">📞 Contact</p>
+                    <p className="text-foreground font-bold">+91 98380 31077</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Manager Profile Section */}
+          <div className="bg-card border border-border rounded-lg p-8 md:p-12 mb-16 animate-fadeInUp">
+            <h2 className="text-3xl font-bold text-primary mb-8 text-center">Our Manager</h2>
+            <div className="flex flex-col lg:flex-row gap-8 items-start">
+              <div className="w-full lg:w-64 flex-shrink-0 mx-auto lg:mx-0">
+                <div className="rounded-lg overflow-hidden border-4 border-primary/30 shadow-2xl shadow-primary/20 hover:shadow-3xl transition-shadow">
+                  <Image
+                    src="/manager.jpg"
+                    alt="Ravi Kumar - Manager"
+                    width={256}
+                    height={320}
+                    className="w-full h-80 object-cover"
+                  />
+                </div>
+              </div>
+
+              <div className="flex-1">
+                <h3 className="text-3xl font-bold text-foreground mb-2">Ravi Kumar</h3>
+                <p className="text-primary font-semibold text-lg mb-6">Manager</p>
+                
+                <div className="space-y-4 text-muted-foreground">
+                  <p className="text-lg leading-relaxed">
+                    Ravi Kumar serves as our dedicated Manager, overseeing daily operations and ensuring smooth 
+                    workflow across all departments. His leadership skills and attention to detail have been 
+                    instrumental in maintaining our high standards of quality and efficiency.
+                  </p>
+                  
+                  <p className="leading-relaxed">
+                    With his strong organizational abilities and commitment to excellence, Ravi coordinates between 
+                    different teams to ensure seamless operations. His proactive approach and problem-solving skills 
+                    contribute significantly to the company's operational success.
+                  </p>
+
+                  <p className="leading-relaxed">
+                    As a key member of our management team, Ravi plays a crucial role in implementing company policies 
+                    and maintaining the quality standards that Shreyhit is known for.
+                  </p>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
+                  <div className="bg-background border border-border rounded-lg p-4">
+                    <p className="text-primary font-semibold text-sm mb-2">💼 Role</p>
+                    <p className="text-foreground font-semibold">Manager</p>
+                  </div>
+                  <div className="bg-background border border-border rounded-lg p-4">
+                    <p className="text-primary font-semibold text-sm mb-2">📞 Contact</p>
+                    <p className="text-foreground font-bold">8808612617</p>
+                  </div>
                 </div>
               </div>
             </div>

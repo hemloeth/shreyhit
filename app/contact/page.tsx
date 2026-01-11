@@ -37,7 +37,10 @@ export default function ContactPage() {
             <div className="bg-card border border-border rounded-lg p-6 sm:p-8 animate-fadeInUp">
               <div className="text-2xl sm:text-3xl font-bold text-primary mb-3 sm:mb-4">📞</div>
               <h3 className="text-lg sm:text-xl font-bold text-foreground mb-2">Phone</h3>
-              <a href="tel:+916391391576" className="text-muted-foreground hover:text-primary transition-colors">+91 63913 91576</a>
+              <div className="space-y-1">
+                <p className="text-foreground font-semibold text-sm">Prince Srivastava (Owner & CEO)</p>
+                <a href="tel:+916391391576" className="text-muted-foreground hover:text-primary transition-colors block">+91 63913 91576</a>
+              </div>
             </div>
             <div
               className="bg-card border border-border rounded-lg p-6 sm:p-8 animate-fadeInUp"
